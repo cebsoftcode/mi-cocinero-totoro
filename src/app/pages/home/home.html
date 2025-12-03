@@ -1,0 +1,143 @@
+<img class="imagen-totoro" src="assets/cocina_totoro.png"
+    alt="Cocina con Totoro">
+<div class="canvas flex-column center">
+    <div id="main">
+        <div class="flex-column center">
+            <div class="panel flex-column center">
+                <h3>Sumérgete en el <b>universo</b> de <b>Studio Ghibli</b> a
+                    través de su <b>gastronomía</b>.</h3>
+                <h3><b>Cada receta</b> es una puerta a mundos llenos de
+                    <b>magia</b>, <b>emoción</b> y <b>belleza visual</b>.</h3>
+                <h3 style="text-align: center;"><b>Descubre</b> los
+                    <b>platos</b> que marcaron generaciones y prepárate para
+                    <b>recrearlos</b> y disfrutarlos con <b>todos los pasos</b>
+                    y <b>trucos</b> a la palma de tu mano.</h3>
+            </div>
+
+            <!-- Categorías -->
+            <h1 class="mt-2">Categorías</h1>
+            <span style="font-size: 30px;">Puedes investigar las recetas según
+                el tipo de plato que buscas</span>
+            <div class="flex-row evenly wrap middle mt-2 ancho px-2">
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/entrantes.png" alt="Entrantes"
+                        width="150px">
+                    <span style="font-size: large;"><b>Entrantes</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/principales.png" alt="principales"
+                        width="150px">
+                    <span style="font-size: large;"><b>Principales</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/sopa_y_arroces.png" alt="sopas_y_arroces"
+                        width="100px">
+                    <span style="font-size: large;"><b>Sopas y
+                            arroces</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/postres.png" alt="postres" width="100px">
+                    <span style="font-size: large;"><b>Postres</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/estrella.png" alt="Fáciles" width="45px">
+                    <span style="font-size: large;"><b>Fáciles</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    <img src="assets/cocina_japonesa.png" alt="Cocina japonesa"
+                        width="100px">
+                    <span style="font-size: large;"><b>Cocina
+                            japonesa</b></span>
+                </div>
+            </div>
+
+            <!-- Hoy destacamos -->
+            <h1 class="mt-2">Hoy destacamos</h1>
+            <span style="font-size: 30px;">Fascínate con las novedades del
+                mes</span>
+            <div class="flex-row  mt-2">
+                <div
+                    class="panel estrecho hoverable flex-column between center">
+                    <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
+                        width="300px" class="img-clicable">
+                    <span class="mt-1" style="font-size: large;"><b>RECETA
+                            DESTACADA</b></span>
+                    <span
+                        style="font-size: medium; margin-bottom: 1em;">Oniguiris
+                        de atún</span>
+                </div>
+                <div
+                    class="panel estrecho hoverable flex-column between center ml-2">
+                    <img src="assets/salteado_champis.png"
+                        alt="Salteado de champiñones y ave" width="300px"
+                        class="img-clicable">
+                    <span class="mt-1" style="font-size: large;"><b>RECETA
+                            DESTACADA</b></span>
+                    <span
+                        style="font-size: medium; margin-bottom: 1em;">Salteado
+                        de champiñones y ave</span>
+                </div>
+                <div
+                    class="panel estrecho hoverable flex-column between center ml-2">
+                    <img src="assets/castella.png" alt="Castella Siberia"
+                        width="300px" class="img-clicable">
+                    <span class="mt-1" style="font-size: large;"><b>RECETA
+                            DESTACADA</b></span>
+                    <span
+                        style="font-size: medium; margin-bottom: 1em;">Castella
+                        Siberia</span>
+                </div>
+            </div>
+
+            <!-- Descubre recetas de cine -->
+            <h1 class="mt-2">Descubre recetas de cine</h1>
+            <span style="font-size: 30px;">Aquí tienes una muestra de algunas
+                recetas, sus nombres, películas y mucho más</span>
+            <div class="flex-row evenly wrap ancho mt-2 px-1">
+                @if (recetas.length != 0){
+                @for (receta of recetas; track $index) {
+                <div class="panel estrecho hoverable flex-column between center" style="width: 250px;">
+                    <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
+                        width="100%" class="img-clicable">
+                    <div class="flex-column between center ancho p-1 alto">
+                        <span
+                            style="font-size: large;text-align: center;"><b>{{
+                                receta.nombre}}</b></span>
+                        <span
+                            style="font-size: medium; margin-bottom: 1em;text-align: center;">{{receta.peli}}</span>
+                        <div class="flex-row middle center">
+                            @for (item of
+                            recetasService.getArrayVacia(receta.dificultad); track
+                            $index) {
+                            <img src="assets/estrella.png" alt="estrella"
+                                width="45px">
+                            }
+                        </div>
+                        <div class="flex-row between ancho mt-1">
+                            <div class="flex-row middle">
+                                <img src="assets/reloj.png" alt="reloj" width=" 30px">
+                                <span class="ml-5"
+                                    style="font-size: large;">{{recetasService.getTiempo(receta.minutos)}}</span>
+                            </div>
+                            <div class="flex-row middle">
+                                <span class="mr-5"
+                                    style="font-size: large;">{{receta.raciones}}</span>
+                                <img src="assets/persona.png" alt="reloj" width=" 28px">
+                            </div>
+                    </div>
+                    </div>
+                </div>
+
+                }
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

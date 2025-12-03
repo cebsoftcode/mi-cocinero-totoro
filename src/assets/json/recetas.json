@@ -1,0 +1,166 @@
+{
+    "Recetas": [
+        {
+            "nombre": "El bento de Totoro",
+            "peli": "Mi vecino Totoro",
+            "dificultad": 2,
+            "minutos": 40,
+            "raciones": 2
+        },
+        {
+            "nombre": "Okayu",
+            "peli": "La princesa Mononoke",
+            "dificultad": 2,
+            "minutos": 20,
+            "raciones": 2
+        },
+        {
+            "nombre": "Hamburguesa casera",
+            "peli": "Pompoko",
+            "dificultad": 2,
+            "minutos": 45,
+            "raciones": 2
+        },
+        {
+            "nombre": "Ensalada de mar",
+            "peli": "El recuerdo de Marnie",
+            "dificultad": 1,
+            "minutos": 35,
+            "raciones": 3
+        },
+        {
+            "nombre": "Onigiris de atún",
+            "peli": "El viaje de Chihiro",
+            "dificultad": 2,
+            "minutos": 30,
+            "raciones": 4 
+        },
+
+        {
+            "nombre": "Langostinos en tempura",
+            "peli": "La colina de las amapolas",
+            "dificultad": 1,
+            "minutos": 15,
+            "raciones": 2
+        },
+        {
+            "nombre": "Crujiente de Howl",
+            "peli": "El castillo ambulante",
+            "dificultad": 2,
+            "minutos": 15,
+            "raciones": 1
+        },
+        {
+            "nombre": "Salteado de champiñones y ave",
+            "peli": "El cuento de la princesa Kaguya",
+            "dificultad": 2,
+            "minutos": 30,
+            "raciones": 3 
+        },
+        {
+            "nombre": "Estofado de ternera",
+            "peli": "El castillo en el cielo",
+            "dificultad": 3,
+            "minutos": 345,
+            "raciones": 8
+        },
+        {
+            "nombre": "Tenera strogonoff",
+            "peli": "Mis vecinos los Yamada",
+            "dificultad": 1,
+            "minutos": 15,
+            "raciones": 2 
+        },
+        {
+            "nombre": "Espaquetis a la boloñesa \ncon albóndigas",
+            "peli": "Porco Rosso",
+            "dificultad": 2,
+            "minutos": 25,
+            "raciones": 2
+        },
+        {
+            "nombre": "Ramen",
+            "peli": "Ponyo en el acantilado",
+            "dificultad": 3,
+            "minutos": 45,
+            "raciones": 2 
+        },
+        {
+            "nombre": "Pastel de arenque y calabaza",
+            "peli": "Nicky, la aprendiz de bruja",
+            "dificultad": 3,
+            "minutos": 70,
+            "raciones": 6
+        },
+        {
+            "nombre": "Sopa de verduras",
+            "peli": "Cuentos de Terramar",
+            "dificultad": 1,
+            "minutos": 40,
+            "raciones": 4
+        },
+        {
+            "nombre": "Arroz con mariscos",
+            "peli": "La tumba de las luciérnagas",
+            "dificultad": 2,
+            "minutos": 45,
+            "raciones": 2
+        },
+        {
+            "nombre": "Bollos rellenos de alubias rojas",
+            "peli": "El viaje de Chihiro",
+            "dificultad": 4,
+            "minutos": 180,
+            "raciones": 3
+        },
+        {
+            "nombre": "Pastitas de mantequilla",
+            "peli": "Susurros del corazón",
+            "dificultad": 2,
+            "minutos": 120,
+            "raciones": 2
+        },
+        {
+            "nombre": "Galletas confitadas",
+            "peli": "Arriety y el mundo de los diminutos",
+            "dificultad": 3,
+            "minutos": 90,
+            "raciones": 2
+        },
+        {
+            "nombre": "Bizcocho de vainilla",
+            "peli": "Haru en el reino de los gatos",
+            "dificultad": 2,
+            "minutos": 95,
+            "raciones": 4
+        },
+        {
+            "nombre": "Bizcocho de frutos secos",
+            "peli": "Nausicaa del valle del viento",
+            "dificultad": 2,
+            "minutos": 60,
+            "raciones": 6
+        },
+        {
+            "nombre": "Castella Siberia",
+            "peli": "El viento se levanta",
+            "dificultad": 4,
+            "minutos": 90,
+            "raciones": 8
+        },
+        {
+            "nombre": "Tarta de piña",
+            "peli": "Recuerdos del ayer",
+            "dificultad": 3,
+            "minutos": 60,
+            "raciones": 4
+        },
+        {
+            "nombre": "Tarta de chocolate",
+            "peli": "Nicky, la aprendiz de bruja",
+            "dificultad": 4,
+            "minutos": 105,
+            "raciones": 6
+        }
+    ]
+}

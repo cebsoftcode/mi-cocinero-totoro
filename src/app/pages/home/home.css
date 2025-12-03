@@ -1,0 +1,5 @@
+.imagen-totoro {
+  width: 100%;     /* ocupa todo el ancho */
+  height: auto;    /* mantiene proporción */
+  display: block;  /* evita espacios indeseados */
+}
