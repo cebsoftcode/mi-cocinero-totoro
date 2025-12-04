@@ -51,6 +51,10 @@ body {
         background-color: none;
     }
 
+    &.blanco{
+        background-color: #FFFFFF;
+    }
+
     &.estrecho{
         padding: 0px;
     }
@@ -61,6 +65,10 @@ body {
             background-color: #fff3e3;
             cursor: pointer;
         }
+    }
+
+    &.seleccionado {
+        background-color: #fff3e3;
     }
 
     &.clicable {
@@ -1642,7 +1650,7 @@ button {
 }
 
 
-.m-12 {
+.m-2 {
     margin: 2em;
 }
 
@@ -1790,6 +1798,10 @@ button {
 
 .p-1 {
     padding: 1em;
+}
+
+.p-2 {
+    padding: 2em;
 }
 
 .p-5 {

@@ -18,38 +18,44 @@
             <h1 class="mt-2">Categorías</h1>
             <span style="font-size: 30px;">Puedes investigar las recetas según
                 el tipo de plato que buscas</span>
-            <div class="flex-row evenly wrap middle mt-2 ancho px-2">
+            <div class="flex-row middle center wrap mt-2 ancho">
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/entrantes')">
                     <img src="assets/entrantes.png" alt="Entrantes"
                         width="150px">
                     <span style="font-size: large;"><b>Entrantes</b></span>
                 </div>
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/principales')">
                     <img src="assets/principales.png" alt="principales"
                         width="150px">
                     <span style="font-size: large;"><b>Principales</b></span>
                 </div>
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/sopas_y_arroces')">
                     <img src="assets/sopa_y_arroces.png" alt="sopas_y_arroces"
                         width="100px">
                     <span style="font-size: large;"><b>Sopas y
                             arroces</b></span>
                 </div>
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/postres')">
                     <img src="assets/postres.png" alt="postres" width="100px">
                     <span style="font-size: large;"><b>Postres</b></span>
                 </div>
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/faciles')">
                     <img src="assets/estrella.png" alt="Fáciles" width="45px">
                     <span style="font-size: large;"><b>Fáciles</b></span>
                 </div>
                 <div class="panel hoverable flex-column between center"
-                    style="width: 200px; height: 150px;" (click)="navigateTo()">
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/cocina_japonesa')">
                     <img src="assets/cocina_japonesa.png" alt="Cocina japonesa"
                         width="100px">
                     <span style="font-size: large;"><b>Cocina
@@ -64,6 +70,7 @@
             <div class="flex-row  mt-2">
                 <div
                     class="panel estrecho hoverable flex-column between center">
+                    <!-- ToDo: poner bien las imágenes -->
                     <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
                         width="300px" class="img-clicable">
                     <span class="mt-1" style="font-size: large;"><b>RECETA
@@ -102,7 +109,9 @@
             <div class="flex-row evenly wrap ancho mt-2 px-1">
                 @if (recetas.length != 0){
                 @for (receta of recetas; track $index) {
-                <div class="panel estrecho hoverable flex-column between center" style="width: 250px;">
+                <div class="panel estrecho hoverable flex-column between center"
+                    style="width: 250px;"
+                    (click)="navigateTo('/recetario/'+receta.nombreURL)">
                     <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
                         width="100%" class="img-clicable">
                     <div class="flex-column between center ancho p-1 alto">
@@ -113,7 +122,8 @@
                             style="font-size: medium; margin-bottom: 1em;text-align: center;">{{receta.peli}}</span>
                         <div class="flex-row middle center">
                             @for (item of
-                            recetasService.getArrayVacia(receta.dificultad); track
+                            recetasService.getArrayVacia(receta.dificultad);
+                            track
                             $index) {
                             <img src="assets/estrella.png" alt="estrella"
                                 width="45px">
@@ -121,16 +131,18 @@
                         </div>
                         <div class="flex-row between ancho mt-1">
                             <div class="flex-row middle">
-                                <img src="assets/reloj.png" alt="reloj" width=" 30px">
+                                <img src="assets/reloj.png" alt="reloj"
+                                    width=" 30px">
                                 <span class="ml-5"
                                     style="font-size: large;">{{recetasService.getTiempo(receta.minutos)}}</span>
                             </div>
                             <div class="flex-row middle">
                                 <span class="mr-5"
                                     style="font-size: large;">{{receta.raciones}}</span>
-                                <img src="assets/persona.png" alt="reloj" width=" 28px">
+                                <img src="assets/persona.png" alt="reloj"
+                                    width=" 28px">
                             </div>
-                    </div>
+                        </div>
                     </div>
                 </div>
 

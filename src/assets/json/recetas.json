@@ -2,165 +2,685 @@
     "Recetas": [
         {
             "nombre": "El bento de Totoro",
+            "nombreURL": "el_bento_de_totoro",
             "peli": "Mi vecino Totoro",
+            "categoria": [
+                "entrantes",
+                "faciles",
+                "cocina_japonesa"
+            ],
             "dificultad": 2,
             "minutos": 40,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                },
+                {
+                    "paso": "",
+                    "imagen": ""
+                },
+                {
+                    "paso": "",
+                    "imagen": ""
+                },
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Okayu",
+            "nombreURL": "okayu",
             "peli": "La princesa Mononoke",
+            "categoria": [
+                "sopas_y_arroces",
+                "faciles",
+                "cocina_japonesa"
+            ],
             "dificultad": 2,
             "minutos": 20,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Hamburguesa casera",
+            "nombreURL": "hamburguesa_casera",
             "peli": "Pompoko",
+            "categoria": [
+                "principales",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 45,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                "hamburguesa_casera_carrusel_1.png"
+            ],
+            "contexto": "Ante la progresiva destrucción de la naturaleza a manos de los seres humanos, los mapaches deciden que es urgente ¡esperar! Estos mapaches de la mitología japonesa, celebran un encuentro contra la invasión de los humanos comiendo unas deliciosas hamburguesas.\nEsta es una escena llena de ironía los mapaches víctimas del avance de las obras de construcción del área metropolitana de Tokio, se deleitan por la vida moderna, la que les va a privar de hábitat natural.\nEste plato representa la industrialización (las hamburguesas) y la tradición japonesa (los mapaches).",
+            "fotoIngredientes": "hamburguesa_casera_ingredientes.png",
+            "ingredientes": [
+                "175g de carne picada (preferentemente de cerdo)",
+                "1 huevo",
+                "1 diente de ajo rallado",
+                "½ cucharadita de ajo en polvo",
+                "1 cucharadita de pimentón",
+                "1 cucharada o pastilla de caldo concentrado de pollo",
+                "½ cucharada de salsa de pescado",
+                "½ cucharadita de pimienta negra",
+                "Perejil",
+                "½ cebolla (para rallar y hacerla en láminas)",
+                "1 cucharada de harina",
+                "2 panes de hamburguesa",
+                "Salsa de tu elección (kétchup, mostaza, barbacoa, etc.)",
+                "1 o 2 hojas de lechuga",
+                "Rodajas de tomate",
+                "Queso cheddar en lonchas"
+            ],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon en una ensaladera la carne picada, el huevo, el ajo rallado, el ajo en polvo, el pimentón, el concentrado de caldo de pollo, la salsa de pescado, la sal, la pimienta, el perejil (la cantidad dependerá del gusto) y la cebolla rallada. Mezcla hasta conseguir una textura homogénea, y, a continuación, añade la harina. Amasa y deja reposar en la nevera durante 30 minutos.",
+                    "imagen": "hamburguesa_casera_paso_1.png"
+                },
+                {
+                    "paso": "2. Pon a calentar aceite en una sartén y retira la masa de la nevera. Con la ayuda de una cuchara, toma una porción generosa de carne y forma una bola. Aplánala luego con las manos y deposítala en la sartén con el aceite. Vigílala y dale la vuelta cada 2 minutos, hasta que se haya hecho al punto deseado.",
+                    "imagen": "hamburguesa_casera_paso_2.png"
+                },
+                {
+                    "paso": "3. Corta los panes por la mitad y unta la salsa elegida. Pon encima 1 o 2 hojas de lechuga, luego 2 o 3 rodajas de tomate y algunas láminas de cebolla. A continuación, dispón la carne y, para terminar, el cheddar. Cierra el conjunto poniendo encima la otra mitad del pan.",
+                    "imagen": "hamburguesa_casera_paso_3.png"
+                },
+                {
+                    "paso": "4. Calienta en el horno 5 minutos.",
+                    "imagen": "hamburguesa_casera_paso_4.png"
+                }
+            ],
+            "imagenFinal": "hamburguesa_casera_final.png"
         },
         {
             "nombre": "Ensalada de mar",
+            "nombreURL": "ensalada_de_mar",
             "peli": "El recuerdo de Marnie",
+            "categoria": [
+                "entrantes",
+                "faciles"
+            ],
             "dificultad": 1,
             "minutos": 35,
-            "raciones": 3
+            "raciones": 3,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Onigiris de atún",
+            "nombreURL": "onigiris_de_atun",
             "peli": "El viaje de Chihiro",
+            "categoria": [
+                "entrantes",
+                "faciles",
+                "cocina_japonesa"
+            ],
             "dificultad": 2,
             "minutos": 30,
-            "raciones": 4 
+            "raciones": 4,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
-
         {
             "nombre": "Langostinos en tempura",
+            "nombreURL": "langostinos_en_tempura",
             "peli": "La colina de las amapolas",
+            "categoria": [
+                "entrantes",
+                "faciles",
+                "cocina_japonesa"
+            ],
             "dificultad": 1,
             "minutos": 15,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Crujiente de Howl",
+            "nombreURL": "crujiente_de_howl",
             "peli": "El castillo ambulante",
+            "categoria": [
+                "entrantes",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 15,
-            "raciones": 1
+            "raciones": 1,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Salteado de champiñones y ave",
+            "nombreURL": "salteado_de_champiñones_y_ave",
             "peli": "El cuento de la princesa Kaguya",
+            "categoria": [
+                "principales",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 30,
-            "raciones": 3 
+            "raciones": 3,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Estofado de ternera",
+            "nombreURL": "estofado_de_ternera",
             "peli": "El castillo en el cielo",
+            "categoria": [
+                "principales"
+            ],
             "dificultad": 3,
             "minutos": 345,
-            "raciones": 8
+            "raciones": 8,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Tenera strogonoff",
+            "nombreURL": "tenera_strogonoff",
             "peli": "Mis vecinos los Yamada",
+            "categoria": [
+                "principales",
+                "faciles"
+            ],
             "dificultad": 1,
             "minutos": 15,
-            "raciones": 2 
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
-            "nombre": "Espaquetis a la boloñesa \ncon albóndigas",
+            "nombre": "Espaquetis a la boloñesa con albóndigas",
+            "nombreURL": "espaguetis_a_la_bolonesa_con_albondigas",
             "peli": "Porco Rosso",
+            "categoria": [
+                "principales",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 25,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Ramen",
+            "nombreURL": "ramen",
             "peli": "Ponyo en el acantilado",
+            "categoria": [
+                "principales",
+                "sopas_y_arroces",
+                "cocina_japonesa"
+            ],
             "dificultad": 3,
             "minutos": 45,
-            "raciones": 2 
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Pastel de arenque y calabaza",
+            "nombreURL": "pastel_de_arenque_y_calabaza",
             "peli": "Nicky, la aprendiz de bruja",
+            "categoria": [
+                "principales"
+            ],
             "dificultad": 3,
             "minutos": 70,
-            "raciones": 6
+            "raciones": 6,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Sopa de verduras",
+            "nombreURL": "sopa_de_verduras",
             "peli": "Cuentos de Terramar",
+            "categoria": [
+                "sopas_y_arroces",
+                "faciles"
+            ],
             "dificultad": 1,
             "minutos": 40,
-            "raciones": 4
+            "raciones": 4,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Arroz con mariscos",
+            "nombreURL": "arroz_con_mariscos",
             "peli": "La tumba de las luciérnagas",
+            "categoria": [
+                "sopas_y_arroces",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 45,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Bollos rellenos de alubias rojas",
+            "nombreURL": "bollos_rellenos_de_alubias_rojas",
             "peli": "El viaje de Chihiro",
+            "categoria": [
+                "postres",
+                "cocina_japonesa"
+            ],
             "dificultad": 4,
             "minutos": 180,
-            "raciones": 3
+            "raciones": 3,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Pastitas de mantequilla",
+            "nombreURL": "pastitas_de_mantequilla",
             "peli": "Susurros del corazón",
+            "categoria": [
+                "postres",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 120,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Galletas confitadas",
+            "nombreURL": "galletas_confitadas",
             "peli": "Arriety y el mundo de los diminutos",
+            "categoria": [
+                "postres"
+            ],
             "dificultad": 3,
             "minutos": 90,
-            "raciones": 2
+            "raciones": 2,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Bizcocho de vainilla",
+            "nombreURL": "bizcocho_de_vainilla",
             "peli": "Haru en el reino de los gatos",
+            "categoria": [
+                "postres",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 95,
-            "raciones": 4
+            "raciones": 4,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Bizcocho de frutos secos",
+            "nombreURL": "bizcocho_de_frutos_secos",
             "peli": "Nausicaa del valle del viento",
+            "categoria": [
+                "postres",
+                "faciles"
+            ],
             "dificultad": 2,
             "minutos": 60,
-            "raciones": 6
+            "raciones": 6,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Castella Siberia",
+            "nombreURL": "castella_siberia",
             "peli": "El viento se levanta",
+            "categoria": [
+                "postres"
+            ],
             "dificultad": 4,
             "minutos": 90,
-            "raciones": 8
+            "raciones": 8,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Tarta de piña",
+            "nombreURL": "tarta_de_pina",
             "peli": "Recuerdos del ayer",
+            "categoria": [
+                "postres"
+            ],
             "dificultad": 3,
             "minutos": 60,
-            "raciones": 4
+            "raciones": 4,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         },
         {
             "nombre": "Tarta de chocolate",
+            "nombreURL": "tarta_de_chocolate",
             "peli": "Nicky, la aprendiz de bruja",
+            "categoria": [
+                "postres"
+            ],
             "dificultad": 4,
             "minutos": 105,
-            "raciones": 6
+            "raciones": 6,
+            "fotoPortada": "",
+            "fotosCarrusel": [
+                ""
+            ],
+            "contexto": "",
+            "fotoIngredientes": "",
+            "ingredientes": [
+                ""
+            ],
+            "elaboracion": [
+                {
+                    "paso": "",
+                    "imagen": ""
+                }
+            ],
+            "imagenFinal": ""
         }
     ]
 }

@@ -1,4 +1,5 @@
-import { RecetasService } from './../../../services/recetasServices';
+import { Router } from '@angular/router';
+import { RecetasService } from '../../../services/commonService';
 import { Component, inject } from '@angular/core';
 
 @Component({
@@ -10,6 +11,7 @@ import { Component, inject } from '@angular/core';
 export class Home {
 
   recetasService = inject(RecetasService)
+  private router = inject(Router)
 
   recetas: recetasDto[] = []
 
@@ -20,7 +22,8 @@ export class Home {
     })
   }
 
-  navigateTo(){
-    
+  navigateTo(ruta: string) {
+    console.log(ruta)
+    this.router.navigate([ruta]);
   }
 }

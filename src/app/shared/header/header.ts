@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-header',
@@ -8,7 +9,9 @@ import { Component } from '@angular/core';
 })
 export class Header {
 
-  navigateTo(){
-    
+  private router = inject(Router)
+
+  navigateTo(ruta: string) {
+    this.router.navigate([ruta]);
   }
 }

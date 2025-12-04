@@ -1,0 +1,22 @@
+.canvas {
+    background-image: url('../../../assets/textura.png');
+    background-repeat: repeat;
+    /* se repite horizontal y vertical */
+    background-size: 57px auto;
+    /* mantiene el tamaño original */
+    height: 100%;
+}
+
+.canvas #main {
+    width: 85%;
+    min-width: 1225px;
+    background-color: #F2E6D8;
+    padding: 3em;
+    height: 100%;
+}
+
+.estrella-no{
+    width: 35px;
+    height: auto;
+    display: inline-block;
+}

@@ -1,0 +1,144 @@
+<div class="canvas flex-column center">
+    <div id="main" class="felx-column middle center ancho">
+        <div class="flex-column center">
+            @if(receta == null || receta == undefined){
+            <!-- {{navigateTo("")}} -->
+            } @else {
+            <h1>{{toUppercase(receta.nombre)}}</h1>
+            <span style="font-size: large;">{{toUppercase(receta.peli)}}</span>
+            <div class="flex-column center ancho mt-2"
+                style="padding-left: 6em;padding-right: 6em;">
+                <div class style="position:relative;">
+                    <div
+                        style="position: absolute; top: 50%;left: -60px;">I</div>
+                    <div class="ancho">
+                        <img [src]="'../../../assets/'+fotoCarrusel"
+                            [alt]="fotoCarrusel"
+                            width="100%">
+                    </div>
+                    <div
+                        style="position: absolute; top: 50%;right: -60px;">D</div>
+                </div>
+                <div class="flex-row between ancho mt-1">
+                    <div>
+                        <span
+                            style="font-size: large;">{{receta.contexto}}</span>
+                    </div>
+                    <div class="flex-column ml-1">
+                        <div class="panel blanco flex-column middle center p-1">
+                            <div class="flex-row bottom estrellas">
+                                @for (item of
+                                recetasService.getArrayVacia(receta.dificultad);
+                                track $index) {
+                                <img src="../../../assets/estrella.png" alt
+                                    width="35px">
+                                }
+
+                                <!-- ToDo: Apañar imagen -->
+                                @for (item of
+                                recetasService.getArrayVacia(5-receta.dificultad);
+                                track $index) {
+                                <img src="../../../assets/estrella_no.png" alt style="width: 35px;height: 51px;"
+                                    class="ml-5">
+                                }
+                            </div>
+                            <div class="flex-row between ancho mt-1">
+                                <div class="flex-row middle">
+                                    <img src="assets/reloj.png" alt="reloj"
+                                        width=" 30px">
+                                    <span class="ml-5"
+                                        style="font-size: large;">{{recetasService.getTiempo(receta.minutos)}}</span>
+                                </div>
+                                <div class="flex-row middle">
+                                    <span class="mr-5"
+                                        style="font-size: large;">{{receta.raciones}}</span>
+                                    <img src="assets/persona.png"
+                                        alt="reloj"
+                                        width=" 28px">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel hoverable p-2 mt-1 ta-center">
+                            <span class="nowrap" style="font-size: large;">Ver
+                                información
+                                de<br>{{toUppercase(receta.peli)}}</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-2 ancho">
+                    <h1>Ingredientes</h1>
+                    <div class="mt-2 ancho flex-row between middle">
+                        <div class="ancho">
+                            @for (ingrediente of receta.ingredientes; track $index) {
+                                <p style="font-size: large;">{{ingrediente}}</p>
+                            }
+                        </div>
+                        <div class="ancho ta-center"><img [src]="'../../../assets/'+receta.fotoIngredientes" alt="" style="width: 400px;"></div>
+                    </div>
+                    <div class="mt-2 ancho">
+                        <h1>Elaboración</h1>
+                        <div class="elaboracion">
+                            @for (paso of receta.elaboracion; track $index) {
+                                <div class="flex-row between middle mb-2">
+                                    <span style="font-size: large;">{{paso.paso}}</span>
+                                    <img [src]="'../../../assets/'+paso.imagen" alt="" style="width: 400px;" class="ml-2">
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-2 ancho flex-column center">
+                    <h1>¡A disfrutar!</h1>
+                    <div style="margin-top: 2em;"><img [src]="'../../../assets/'+receta.imagenFinal" alt=""></div>
+                </div>
+            </div>
+            }
+
+            <h1 class="mt-2">Categorías</h1>
+            <div class="flex-row middle center wrap mt-2 mb-1 ancho">
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/entrantes')">
+                    <img src="assets/entrantes.png" alt="Entrantes"
+                        width="150px">
+                    <span style="font-size: large;"><b>Entrantes</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/principales')">
+                    <img src="assets/principales.png" alt="principales"
+                        width="150px">
+                    <span style="font-size: large;"><b>Principales</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/sopas_y_arroces')">
+                    <img src="assets/sopa_y_arroces.png" alt="sopas_y_arroces"
+                        width="100px">
+                    <span style="font-size: large;"><b>Sopas y
+                            arroces</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/postres')">
+                    <img src="assets/postres.png" alt="postres" width="100px">
+                    <span style="font-size: large;"><b>Postres</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/faciles')">
+                    <img src="assets/estrella.png" alt="Fáciles" width="45px">
+                    <span style="font-size: large;"><b>Fáciles</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center"
+                    style="width: 200px; height: 150px;"
+                    (click)="navigateTo('/categorias/cocina_japonesa')">
+                    <img src="assets/cocina_japonesa.png" alt="Cocina japonesa"
+                        width="100px">
+                    <span style="font-size: large;"><b>Cocina
+                            japonesa</b></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,92 @@
+<div class="canvas flex-column center">
+    <div id="main" class="felx-column middle center ancho">
+        <div class="flex-column center">
+            @if(pelicula == null || pelicula == undefined){
+            <!-- {{navigateTo("")}} -->
+            {{peliculaNombre}}
+            } @else {
+            <h1>{{toUppercase(pelicula.nombre)}}</h1>
+            <span
+                style="font-size: large;">{{toUppercase(pelicula.director)+", "
+                + pelicula.anyo}}</span>
+            <div class="flex-column center ancho mt-2"
+                style="padding-left: 6em;padding-right: 6em;">
+                <div class style="position:relative;">
+                    <div
+                        style="position: absolute; top: 50%;left: -60px;">I</div>
+                    <div class="ancho">
+                        <img [src]="'../../../assets/'+fotoCarrusel"
+                            [alt]="fotoCarrusel"
+                            width="100%">
+                    </div>
+                    <div
+                        style="position: absolute; top: 50%;right: -60px;">D</div>
+                </div>
+                <div class="flex-row between ancho mt-2">
+                    <div>
+                        <span
+                            style="font-size: large;text-align: justify">{{pelicula.contexto}}</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="mt-2 ancho">
+                <div class="video-container">
+                    <iframe
+                        [src]="urlVideo"
+                        title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+            <h1 class="mt-2">Recetas relacionadas</h1>
+            <div class="flex-row evenly wrap ancho mt-2 px-1">
+                @if (recetas.length != 0){
+                @for (receta of recetas; track $index) {
+                <div class="panel estrecho hoverable flex-column between center"
+                    style="width: 250px;"
+                    (click)="navigateTo('/recetario/'+receta.nombreURL)">
+                    <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
+                        width="100%" class="img-clicable">
+                    <div class="flex-column between center ancho p-1 alto">
+                        <span
+                            style="font-size: large;text-align: center;"><b>{{
+                                receta.nombre}}</b></span>
+                        <span
+                            style="font-size: medium; margin-bottom: 1em;text-align: center;">{{receta.peli}}</span>
+                        <div class="flex-row middle center">
+                            @for (item of
+                            recetasService.getArrayVacia(receta.dificultad);
+                            track
+                            $index) {
+                            <img src="assets/estrella.png" alt="estrella"
+                                width="45px">
+                            }
+                        </div>
+                        <div class="flex-row between ancho mt-1">
+                            <div class="flex-row middle">
+                                <img src="assets/reloj.png" alt="reloj"
+                                    width=" 30px">
+                                <span class="ml-5"
+                                    style="font-size: large;">{{recetasService.getTiempo(receta.minutos)}}</span>
+                            </div>
+                            <div class="flex-row middle">
+                                <span class="mr-5"
+                                    style="font-size: large;">{{receta.raciones}}</span>
+                                <img src="assets/persona.png" alt="reloj"
+                                    width=" 28px">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                }
+                }
+
+            </div>
+            }
+        </div>
+    </div>
+</div>

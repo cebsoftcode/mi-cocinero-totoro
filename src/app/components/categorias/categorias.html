@@ -1,0 +1,92 @@
+<div class="canvas flex-column center">
+    <div id="main" class="felx-column middle center ancho">
+        <div class="flex-column center">
+            <h1 class>Categorías</h1>
+            <div class="flex-row middle center wrap mt-2 ancho">
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='entrantes'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'entrantes'">
+                    <img src="assets/entrantes.png" alt="Entrantes"
+                        width="150px">
+                    <span style="font-size: large;"><b>Entrantes</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='principales'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'principales'">
+                    <img src="assets/principales.png" alt="principales"
+                        width="150px">
+                    <span style="font-size: large;"><b>Principales</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='sopas_y_arroces'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'sopas_y_arroces'">
+                    <img src="assets/sopa_y_arroces.png" alt="sopas_y_arroces"
+                        width="100px">
+                    <span style="font-size: large;"><b>Sopas y
+                            arroces</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='postres'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'postres'">
+                    <img src="assets/postres.png" alt="postres" width="100px">
+                    <span style="font-size: large;"><b>Postres</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='faciles'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'faciles'">
+                    <img src="assets/estrella.png" alt="Fáciles" width="45px">
+                    <span style="font-size: large;"><b>Fáciles</b></span>
+                </div>
+                <div class="panel hoverable flex-column between center" [ngClass]="categoria =='cocina_japonesa'?'seleccionado':''"
+                    style="width: 200px; height: 150px;" (click)="categoria = 'cocina_japonesa'">
+                    <img src="assets/cocina_japonesa.png" alt="Cocina japonesa"
+                        width="100px">
+                    <span style="font-size: large;"><b>Cocina
+                            japonesa</b></span>
+                </div>
+            </div>
+            @if (categoria != null){
+            <h2 class="mt-2">{{toUppercase(categoria.replaceAll("_", " "))}}</h2>
+            <div class="flex-row evenly wrap ancho mt-2 px-1">
+                @if (recetas.length != 0){
+                @for (receta of recetas; track $index) {
+                @if (receta.categoria.includes(categoria)){
+                <div class="panel estrecho hoverable flex-column between center"
+                    style="width: 250px;" (click)="navigateTo('/recetario/'+receta.nombreURL)">
+                    <img src="assets/niguiri_atun.png" alt="Oniguiris de atún"
+                        width="100%" class="img-clicable">
+                    <div class="flex-column between center ancho p-1 alto">
+                        <span
+                            style="font-size: large;text-align: center;"><b>{{
+                                receta.nombre}}</b></span>
+                        <span
+                            style="font-size: medium; margin-bottom: 1em;text-align: center;">{{receta.peli}}</span>
+                        <div class="flex-row middle center">
+                            @for (item of
+                            recetasService.getArrayVacia(receta.dificultad);
+                            track
+                            $index) {
+                            <img src="assets/estrella.png" alt="estrella"
+                                width="45px">
+                            }
+                        </div>
+                        <div class="flex-row between ancho mt-1">
+                            <div class="flex-row middle">
+                                <img src="assets/reloj.png" alt="reloj"
+                                    width=" 30px">
+                                <span class="ml-5"
+                                    style="font-size: large;">{{recetasService.getTiempo(receta.minutos)}}</span>
+                            </div>
+                            <div class="flex-row middle">
+                                <span class="mr-5"
+                                    style="font-size: large;">{{receta.raciones}}</span>
+                                <img src="assets/persona.png" alt="reloj"
+                                    width=" 28px">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                }
+                }
+                }
+
+            </div>
+            }
+        </div>
+    </div>
+</div>
