@@ -1,0 +1,192 @@
+{
+    "Peliculas": [
+        {
+            "nombre": "Mi vecino Totoro",
+            "nombreURL": "mi_vecino_totoro",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1988",
+            "fotosCarrusel": ["mi_vecino_totoro_carrusel_1.png"],
+            "contexto": "Satsuki y Mei son dos niñas que se mudan al campo junto con su padre, un profesor de universidad. Padre e hijas comienzan a vivir en una vieja casa campestre, cercana al hospital donde la madre de las niñas trata de recuperarse de una grave enfermedad. El nuevo hogar de las pequeñas esconde nuevos y emocionantes misterios, entre ellos, la presencia de unas pequeñas y oscuras criaturas del polvo que habitan la casa. Las niñas conocerán también a Totoro, una gigantesca y simpática criatura que vive en el bosque que rodea su nuevo hogar.",
+            "enlaceVideo": "https://www.youtube.com/embed/VtNXgiLaw1E"
+        },
+        {
+            "nombre": "Nausicaa del valle del viento",
+            "nombreURL": "nausicaa_del_valle_del_viento",
+            "director": "",
+            "anyo": "1984",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El castillo en el cielo",
+            "nombreURL": "el_castillo_en_el_cielo",
+            "director": "",
+            "anyo": "1986",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "La tumba de las luciérnagas",
+            "nombreURL": "la_tumba_de_las_luciernagas",
+            "director": "",
+            "anyo": "1988",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Nicky, aprendiz de bruja",
+            "nombreURL": "nicky_aprendiz_de_bruja",
+            "director": "",
+            "anyo": "1989",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Porco Rosso",
+            "nombreURL": "porco_rosso",
+            "director": "",
+            "anyo": "1988",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Recuerdos del ayer",
+            "nombreURL": "recuerdos_del_ayer",
+            "director": "",
+            "anyo": "1991",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Pompoko",
+            "nombreURL": "pompoko",
+            "director": "",
+            "anyo": "1994",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Susurros del corazón",
+            "nombreURL": "susurros_del_corazon",
+            "director": "",
+            "anyo": "1995",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "La princesa Mononoke",
+            "nombreURL": "la_princesa_mononoke",
+            "director": "",
+            "anyo": "1997",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Mis vecinos los Yamada",
+            "nombreURL": "mis_vecinos_los_yamada",
+            "director": "",
+            "anyo": "1999",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El viaje de Chihiro",
+            "nombreURL": "el_viaje_de_chihiro",
+            "director": "",
+            "anyo": "2001",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Haru en el reino de los gatos",
+            "nombreURL": "haru_en_el_reino_de_los_gatos",
+            "director": "",
+            "anyo": "2002",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El castillo ambulante",
+            "nombreURL": "el_castillo_ambulante",
+            "director": "",
+            "anyo": "2004",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Cuentos de Terramar",
+            "nombreURL": "cuentos_de_terramar",
+            "director": "",
+            "anyo": "2006",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Ponyo en el acantilado",
+            "nombreURL": "ponyo_en_el_acantilado",
+            "director": "",
+            "anyo": "2008",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "Arietty y el mundo de los diminutos",
+            "nombreURL": "arietty_y_el_mundo_de_los_diminutos",
+            "director": "",
+            "anyo": "2010",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "La colina de las amapolas",
+            "nombreURL": "la_colina_de_las_amapolas",
+            "director": "",
+            "anyo": "2011",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El cuento de la princesa Kaguya",
+            "nombreURL": "el_cuento_de_la_princesa_kaguya",
+            "director": "",
+            "anyo": "2013",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El viento se levanta",
+            "nombreURL": "el_viento_se_levanta",
+            "director": "",
+            "anyo": "2013",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        },
+        {
+            "nombre": "El recuerdo de Marnie",
+            "nombreURL": "el_recuerdo_de_marnie",
+            "director": "",
+            "anyo": "2014",
+            "fotosCarrusel": [""],
+            "contexto": "",
+            "enlaceVideo": ""
+        }]
+}

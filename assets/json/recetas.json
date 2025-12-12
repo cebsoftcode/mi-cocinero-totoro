@@ -1,0 +1,1172 @@
+{
+    "Recetas": [
+        {
+            "nombre": "El bento de Totoro",
+            "nombreURL": "el_bento_de_totoro",
+            "peli": "Mi vecino Totoro",
+            "categoria": ["entrantes", "faciles", "cocina_japonesa"],
+            "dificultad": 2,
+            "minutos": 40,
+            "raciones": 2,
+            "fotoPortada": "Bento_portada.png",
+            "fotosCarrusel": ["Bento_carrusel1.png","Bento_carrusel2.png","Bento_carrusel3.png"],
+            "contexto": "El bento es una comida japonesa que se prepara dentro de un recipiente para llevar. Es un plato que se distingue por su gran equilibrio en virtud de la concepción japonesa de la alimentación: se compone de arroz, una parte de proteína y otra de legumbres o fruta.\n En mi vecino Totoro, Satsuki y su hermana Mei viven con su padre. Antes de encontrarse con el espíritu del bosque, Satsuki prepara un bento para un picnic.  ",
+            "ingredientes": ["120g arroz",
+                            "2 esperlanos a la parrilla o shishamos congelados", 
+                            "Aceite de oliva", 
+                            "100g de filetes de pescado blanco tipo dorada", 
+                            "1 cucharadita de sake", 
+                            "2 cucharadas de azúcar blanco", 
+                            "1 cucharadita de sal", 
+                            "2 gotas de colorante rojo",
+                            "2 azufaifos secos", 
+                            "30 semillas de edamame"], 
+
+            "elaboracion": [
+                {
+                    "paso": "1. Lava el arroz hasta que el agua salga limpia. Pon a cocer en una agua con a fuego alto (el volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos. Mientras se hacem prepara los shishamo, empezando por descongelarlos, para luego pasarlos por la sartén con el aceite a fuego medio durante 5 minutos. Dales la vuelta y concínalos por el otro lado otros 5 minutos. Retira y escurre sobre papel de cocina.",
+                    "imagen": "Bento_paso1.png" 
+                },
+                {
+                    "paso": "2. Pon agua a hervir en otra cacerola y añade la dorada. Cuando empiecea desmenuzarse, escúrrela y ponla en un plato. Si se utilizan filetes de dorada congelados, habrá que descongelarlos previamente.",
+                    "imagen": "Bento_paso2.png" 
+                },
+                {
+                    "paso": "3. Saltea la dorada en una sartén a fuego medio, luego, añade el sake, la sal y el azúcar. Asegúrate de que esta última se disuelve bien y remueve hasta que se haya evaporado todo el líquido.",
+                    "imagen": "Bento_paso3.png" 
+                },
+                {
+                    "paso": "4. Agrega el colorante rojo y un poco de agua para obtener el tono deseado, reduce el fuego y mezcla. ",
+                    "imagen": "Bento_paso4.png" 
+                },
+                {
+                    "paso": "5. Para montar el bento, dispón el arroz en el fondo del recipiente. Luego, añade un shishamo y un azufaifo en cada bento y extiende las migas de dorada formando un pequeño rectángulo. Coloca los edamames en el rectángulo opuesto.",
+                    "imagen": "Bento_paso5.png" 
+                }
+            ],
+            "imagenFinal": "Bento_final.png"
+        },
+        {
+            "nombre": "Okayu",
+            "nombreURL": "okayu",
+            "peli": "La princesa Mononoke",
+            "categoria": ["sopas_y_arroces", "faciles", "cocina_japonesa"],
+            "dificultad": 2,
+            "minutos": 20,
+            "raciones": 2,
+            "fotoPortada": "okayu_portada.png",
+            "fotosCarrusel": ["okayu_carrusel1.png", "okayu_carrusel2.png", "okayu_carrusel3.png"],
+            "contexto": "Ashitaka es presa de una maldición que le ha lanzado un demonio. El periplo que inicia para deshacerse del maleficio lo llevará al encuentro de los espíritus del bosque, y también de San, la princesa Mononoke. \n Ashitaka se encuentra con Jiko, un monje vagabundo. El monje sirve al muchacho una sopa de arroz, que sazona con lo que podría ser pasta de miso. Esta papilla se da a los niños o a los enfermos y se le atribuyen propiedades curativas. Además, se le puede añadir dos huevos y acompañarlo de salmón, de umeboshi (ciruelas encurtidas) o, como en la película, de cebollinos.",
+            "ingredientes": ["4 huevos",
+                            "1 cucharada o pastilla de caldo concentrado de pollo",
+                            "1 cucharadita de harina fina de maíz o maicena", 
+                            "1 cucharada de pasta de miso blanco (sustituible por pasta de miso blanco con salsa de soja)",
+                            "60g de arroz de jazmín", 
+                            "De 1 a 3 tallos de cilantro",
+                            "Una pizca de pimienta negra", 
+                            "Una pizca de cebolla frita"],
+
+            "elaboracion": [
+                {
+                    "paso": "1. Hierve 1 litro de agua en una cacerola. Entretanto, calienta aceite en una sartén, bate un huevo y haz una tortilla. Después de que se esté haciendo durante 2 o 3 minutos a fuego alto, sácala y córtala en láminas.",
+                    "imagen": "okayu_paso1.png" 
+                },
+                {
+                    "paso": "2. Cuando el agua esté hirviendo, añade el concentrado de pollo, la fécula de maíz previamente diluida en 1 cucharada de agua, 3 huevos batidos y la pasta de miso, bien batida, para que se funda correctamente.",
+                    "imagen": "okayu_paso2.png" 
+                },
+                {
+                    "paso": "3. Lava el arroz hasta que el agua salga limpia. Pon a cocer en una agua con a fuego alto (le volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos. Cuando esté listo, añadirlo al caldo y deja que hierva un poco, hasta obtener una especie de gachas o porridge.",
+                    "imagen": "okayu_paso3.png" 
+                },
+                {
+                    "paso": "4. Pon el caldo en un bol. Coloca las láminas de tortilla y esparce el cilantro, la pimienta y la cebolla frita.",
+                    "imagen": "okayu_paso4.png" 
+                }
+            ],
+            "imagenFinal": "okayu_final.png"
+        },
+        {
+            "nombre": "Hamburguesa casera",
+            "nombreURL": "hamburguesa_casera",
+            "peli": "Pompoko",
+            "categoria": ["principales", "faciles"],
+            "dificultad": 2,
+            "minutos": 45,
+            "raciones": 2,
+            "fotoPortada": "hamburguesacasera_portada.png",
+            "fotosCarrusel": ["hamburguesacasera_carrusel1.png", "hamburguesacasera_carrusel2.png", "hamburguesacasera_carrusel3.png"],
+            "contexto": "Ante la progresiva destrucción de la naturaleza a manos de los seres humanos, los mapaches deciden que es urgente ¡esperar! Estos mapaches de la mitología japonesa, celebran un encuentro contra la invasión de los humanos comiendo unas deliciosas hamburguesas. \n Esta es una escena llena de ironía los mapaches víctimas del avance de las obras de construcción del área metropolitana de Tokio, se deleitan por la vida moderna, la que les va a privar de hábitat natural. /n Este plato representa la industrialización (las hamburguesas) y la tradición japonesa (los mapaches).",
+            "ingredientes": ["175g de carne picada (preferentemente de cerdo)",
+                            "1 huevo",
+                            "1 diente de ajo rallado", 
+                            "½ cucharadita de ajo en polvo",
+                            "1 cucharadita de pimentón", 
+                            "1 cucharada o pastilla de caldo concentrado de pollo",
+                            "½ cucharada de salsa de pescado", 
+                            "½ cucharadita de pimienta negra", 
+                            "Perejil",
+                            "½ cebolla (para rallar y hacerla en láminas)",
+                            "1 cucharada de harina",
+                            "2 panes de hamburguesa", 
+                            "Salsa de tu elección (kétchup, mostaza, barbacoa, etc.)",
+                            "1 o 2 hojas de lechuga", 
+                            "Rodajas de tomate", 
+                            "Queso cheddar en lonchas"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon en una ensaladera la carne picada, el huevo, el ajo rallado, el ajo en polvo, el pimentón, el concentrado de caldo de pollo, la salsa de pescado, la sal, la pimienta, el perejil (la cantidad dependerá del gusto) y la cebolla rallada. Mezcla hasta conseguir una textura homogénea, y, a continuación, añade la harina. Amasa y deja reposar en la nevera durante 30 minutos.",
+                    "imagen": "hamburguesacasera_paso1.png" 
+                },
+                {
+                    "paso": "2. Pon a calentar aceite en una sartén y retira la masa de la nevera. Con la ayuda de una cuchara, toma una porción generosa de carne y forma una bola. Aplánala luego con las manos y deposítala en la sartén con el aceite. Vigílala y dale la vuelta cada 2 minutos, hasta que se haya hecho al punto deseado.",
+                    "imagen": "hamburguesacasera_paso2.png" 
+                },
+                {
+                    "paso": "3. Corta los panes por la mitad y úntales la salsa elegida. Pon encima 1 o 2 hojas de lechuga, luego 2 o 3 rodajas de tomate y algunas láminas de cebolla. A continuación, dispón la carne y, para terminar, el cheddar. Cierra el conjunto poniendo encima la otra mitad del pan.",
+                    "imagen": "hamburguesacasera_paso3.png" 
+                }
+            ],
+            "imagenFinal": "hamburguesacasera_final.png"
+        },
+        {
+            "nombre": "Ensalada de mar",
+            "nombreURL": "ensalada_de_mar",
+            "peli": "El recuerdo de Marnie",
+            "categoria": ["entrantes", "faciles"],
+            "dificultad": 1,
+            "minutos": 35,
+            "raciones": 3,
+            "fotoPortada": "ensaldademar_portada.png",
+            "fotosCarrusel": ["ensaladademar_carrusel1.png", "ensaladademar_carrusel2.png", "ensaladademar_carrusel3.png"],
+            "contexto": "Anna, una huérfana adolescente a la que su familia envía una temporada a la región de Hokkaido. Allí entablará amistad con la fantasmagórica Marnie. \n Anna vuelve a casa con su familia adoptiva y, en la mesa, toda la comida es la típica japonesa: una ensalada acompaña a un plato de pescado cortado en sashimi y unos mariscos muy comunes en las regiones costeras.",
+            "ingredientes": ["250g de almendras de mar (también se les llama almejón)",
+                            "250g de almejas",
+                            "250g de caracolas (o cañaíllas)",
+                            "250g de gambas", 
+                            "1 cebolla", 
+                            "1 limón", 
+                            "Hojas de lechuga", 
+                            "10 tomates cherry (o unas rodajas de tomate)",
+                            "15 aceitunas negras", 
+                            "150g de queso gouda"],
+            "elaboracion": [
+                {
+                    "paso": "1. En una olla, pon a hervir 1 litro de agua e introduce los mariscos, a excepción de las gambas. Cuece durante 15 a 20 minutos; luego, sácalos, escúrrelos y reserva. Entretanto, pela las gambas, córtalas en trozos y trasládalas a un bol.",
+                    "imagen": "ensaladademar_paso1.png" 
+                },
+                {
+                    "paso": "2. Corta la cebolla en láminas y agrégala al bol. Parte el limón en dos, exprime una de las mitades sobre la cebolla y mézclalo bien con todo.",
+                    "imagen": "ensaladademar_paso2.png" 
+                },
+                {
+                    "paso": "3. Separa y lava las hojas para la ensalada. Con ayuda de una cucharilla, unta el contenido del bol. Exprime la otra mitad del limón sobre el conjunto.",
+                    "imagen": "ensaladademar_paso3.png" 
+                },
+                {
+                    "paso": "4. Prepara un plato con la ensalada, los tomates, las aceitunas y el queso cortado en dados, y sirve con los mariscos en otro recipiente.",
+                    "imagen": "ensaladademar_paso4.png" 
+                }
+            ],
+            "imagenFinal": "ensaladademar_final.png"
+        },
+        {
+            "nombre": "Onigiris de atún",
+            "nombreURL": "onigiris_de_atun",
+            "peli": "El viaje de Chihiro",
+            "categoria": ["entrantes", "faciles", "cocina_japonesa"],
+            "dificultad": 2,
+            "minutos": 30,
+            "raciones": 4 ,
+            "fotoPortada": "onigirisdeatun_portada.png",
+            "fotosCarrusel": ["onigirisdeatun_carrusel1.png", "onigirisdeatun_carrusel2.png", "onigirisdeatun_carrusel3.png"],
+            "contexto": "Chihiro está atrapada en una casa de baños termales (onsen) por los que campan espíritus del folklore japonés. Los padres de la niña acaban convertidos en cerdos. Un misterioso joven, Haku, decide ayudarla encontrando un trabajo en la casa de baños termales para salvar su vida. Para que se recupere, le ofrece un onigiri mágico: este le dará fuerzas y hará que no se convierta en cerdo. \n El onigiri es una típica comida callejera japonesa. Consiste en una bola de arroz que se presenta con forma de triángulo sobre una base de alga nori. Puede estar relleno, ciruelas o carne. Es sencillo, saciante y sano.",
+            "ingredientes": ["150 – 200g de arroz jazmín",
+                            "4 cucharadas de vinagre de arroz",
+                            "Sal", 
+                            "Azúcar blanco", 
+                            "500g de atún al natural enlatado", 
+                            "Mayonesa", 
+                            "4 hojas de alga nori"],
+            "elaboracion": [
+                {
+                    "paso": "1. Lava el arroz hasta que el agua salga limpia. Pon a cocer en una agua con a fuego alto (le volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapar la olla, baja el fuego al mínimo y cocina durante 15 minutos.",
+                    "imagen": "onigirisdeatun_paso1.png" 
+                },
+                {
+                    "paso": "2. Mientras, mezcla el vinagre de arroz con la sal y el azúcar. Una vez esté cocido el arroz, rocía con el aderezo de vinagre y mézclalo bien para que se impregne todo el arroz.",
+                    "imagen": "onigirisdeatun_paso2.png" 
+                },
+                {
+                    "paso": "3. Pon el atún en un bol y mezcla bien con mayonesa, en una cantidad al gusto.",
+                    "imagen": "onigirisdeatun_paso3.png" 
+                },
+                {
+                    "paso": "4. Con las manos humedecidas, haz 4 tortas de arroz, extiende sobre cada una de ellas una capa de atún, y luego cubre con otra capa de arroz. Dales un poco de forma de bola y luego modela las equinas para que adquieran forma de triángulos.",
+                    "imagen": "onigirisdeatun_paso4.png" 
+                },
+                {
+                    "paso": "5. Humedece las hojas de alga nori y pégalas a la base de los onigiri.",
+                    "imagen": "onigirisdeatun_paso5.png" 
+                }
+            ],
+            "imagenFinal": "onigirisdeatun_final.png"
+        },
+
+        {
+            "nombre": "Langostinos en tempura",
+            "nombreURL": "langostinos_en_tempura",
+            "peli": "La colina de las amapolas",
+            "categoria": ["entrantes", "faciles", "cocina_japonesa"],
+            "dificultad": 1,
+            "minutos": 15,
+            "raciones": 2,
+            "fotoPortada": "langostinosentempura_portada.png",
+            "fotosCarrusel": ["langostinosentempura_carrusel1.png", "langostinosentempura_carrusel2.png", "langostinosentempura_carrusel3.png"],
+            "contexto": "Umi es una adolescente que vive en Yokohma. Ella se encarga de cuidar a sus hermanos, abuela, llevar la pensión familiar y preparar platos tradicionales japoneses para los huéspedes. Estos deliciosos buñuelos a la japonesa se pueden degustar solos o con una sopa de pasta (tempura udon).",
+            "ingredientes": ["Aceite para freír", 
+                            "10 langostinos", 
+                            "1 huevo", 
+                            "200ml de agua helada", 
+                            "125g de harina de trigo", 
+                            "Panko (la cantidad suficiente para cubrir los langostinos)"],
+            "elaboracion": [
+                {
+                    "paso": "1. Calienta el aceite de freír en una sartén. Mientras tanto, pela los langostinos. Después, en un recipiente, bate el huevo y añádele el agua. Pon en un plato la harina tamizada y en otro el panko.",
+                    "imagen": "langostinosentempura_paso1.png" 
+                },
+                {
+                    "paso": "2. Sujeta los langostinos por la cola y pásalos por la harina, luego sumérgelos en la mezcla de huevo batido y agua, y por último, rebózalos con el panko.",
+                    "imagen": "langostinosentempura_paso2.png" 
+                },
+                {
+                    "paso": "3. Sumérgelos en el aceite de freír una vez esté caliente y dales la vuelta para que se hagan por ambos lados. El panko debe quedar bien dorado por ambos lados. Antes de servirlos escurre sobre papel absorbente para eliminar el exceso de aceite.",
+                    "imagen": "langostinosentempura_paso3.png" 
+                }
+            ],
+            "imagenFinal": "langostinosentempura_final.png"
+        },
+        {
+            "nombre": "Crujiente de Howl",
+            "nombreURL": "crujiente_de_howl",
+            "peli": "El castillo ambulante",
+            "categoria": ["entrantes", "faciles"],
+            "dificultad": 2,
+            "minutos": 15,
+            "raciones": 1,
+            "fotoPortada": "crujientedehowl_portada.png",
+            "fotosCarrusel": ["crujientedehowl_carrusel1.png", "crujientedehowl_carrusel2.png", "crujientedehowl_carrusel3.png"],
+            "contexto": "Sophie es presa de un maleficio de una bruja que la ha privado de su juventud, la transforma en una abuelita. Huye de su casa y encuentra refugio en el castillo ambulante del mago Howl. En esta fortaleza andante hará de ama de llaves. Sohpie prepara el desayuno a Marco, el joven aprendiz de hechicero, y a Howl. \n La preparación de esta receta se asemeja a un desayuno inglés, acompañado por pan de centeno y queso. Tiene aspecto de ser grasiento pero sabroso. Así como exclama el pequeño aprendiz: ¡Hacía mucho tiempo que no desayunábamos de verdad!",
+            "ingredientes": ["2 lonchas de beicon", 
+                            "Aceite de oliva", 
+                            "2 huevos", 
+                            "Sal",
+                            "Pimienta negra", 
+                            "Ajo en polvo", 
+                            "1 rebanada de pan de molde sin corteza"],
+            "elaboracion": [
+                {
+                    "paso": "1. Fríe por ambos lados las lonchas de beicon en una sartén hasta que queden bien crujientes.",
+                    "imagen": "crujientedehowl_paso1.png" 
+                },
+                {
+                    "paso": "2. Mientras tanto, bate y salpimienta al gusto los huevos. Añade una pizca de ajo en polvo.",
+                    "imagen": "crujientedehowl_paso2.png" 
+                },
+                {
+                    "paso": "3. Parte en dos la rebanada de pan de molde sin la corteza.",
+                    "imagen": "crujientedehowl_paso3.png" 
+                },
+                {
+                    "paso": "4. Una vez el aceite esté caliente, echa los huevos y pon las rebanadas de pan en el centro, para darles la vuelta de inmediato.",
+                    "imagen": "crujientedehowl_paso4.png" 
+                },
+                {
+                    "paso": "5. Cuando los huevos estén cuajados, pliega la tortilla hacia dentro por cada uno de sus lados.",
+                    "imagen": "crujientedehowl_paso5.png" 
+                },
+                {
+                    "paso": "6. Corta las lonchas de beicon y ponlas sobre la tortilla.",
+                    "imagen": "crujientedehowl_paso6.png" 
+                },
+                {
+                    "paso": "7. Dobla el conjunto, de manera que quede una rebanada de pan en cada lado.",
+                    "imagen": "crujientedehowl_paso7.png" 
+                }
+            ],
+            "imagenFinal": "crujientedehowl_final.png"
+        },
+        {
+            "nombre": "Salteado de champiñones y ave",
+            "nombreURL": "salteado_de_champiñones_y_ave",
+            "peli": "El cuento de la princesa Kaguya",
+            "categoria": ["principales", "faciles"],
+            "dificultad": 2,
+            "minutos": 30,
+            "raciones": 3 ,
+            "fotoPortada": "salteadodechampiñonesyave_portada.png",
+            "fotosCarrusel": ["salteadodechampiñonesyave_carrusel1.png", "salteadodechampiñonesyave_carrusel2.png", "salteadodechampiñonesyave_carrusel3.png"],
+            "contexto": "Kaguya es criada como la hija de unos campesinos. Sus relaciones con el joven Sutemaru parecen orientarse hacia un idilio durante la caza de un faisán. Kaguya encuentra unos champiñones para acompañar la carne del ave. El padre de la joven decide que merece una educación mejor y la lleva a vivir a un castillo, para que se convierta en princesa. ",
+            "ingredientes": ["250g de pollo (u otra carne de ave)",
+                            "3 dientes de ajo",
+                            "1 cucharada de aceite de sésamo",
+                            "1 cucharada de salsa de soja", 
+                            "1 huevo",
+                            "Sal", 
+                            "Pimienta negra", 
+                            "175g de arroz", 
+                            "250g de champiñones (pueden ser champiñones comunes, o una mezcla de distintos tipos de setas)",
+                            "25g de mantequilla sin sal", 
+                            "1 cucharada de aceite de oliva"],
+            "elaboracion": [
+                {
+                    "paso": "1. Corta el pollo en trozos pequeños. Pica el ajo y divídelo en 2 partes iguales.",
+                    "imagen": "salteadodechampiñonesyave_paso1.png" 
+                },
+                {
+                    "paso": "2. Traslada la mitad del ajo a una ensaladera y añade los trozos de pollo, aceite de sésamo, la salsa de soja, el huevo y salpimienta. Mézclalo todo y dejar reposar unos 10 minutos en la nevera.",
+                    "imagen": "salteadodechampiñonesyave_paso2.png" 
+                },
+                {
+                    "paso": "3. Lava el arroz hasta que el agua salga limpia. Pon a cocer en una agua con a fuego alto (le volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos.",
+                    "imagen": "salteadodechampiñonesyave_paso3.png" 
+                },
+                {
+                    "paso": "4. Corta los champiñones en láminas.",
+                    "imagen": "salteadodechampiñonesyave_paso4.png" 
+                },
+                {
+                    "paso": "5. Derrite la mantequilla en una sartén y luego añade el aceite de oliva y el ajo restante. Saltea hasta que el ajo haya cogido color. Añade los champiñones y remueve mientras se van cocinando.",
+                    "imagen": "salteadodechampiñonesyave_paso5.png" 
+                },
+                {
+                    "paso": "6. Saca la marinada del frigorífico e incorpora a la sartén. Cocina el pollo hasta que esté bien hecho y sirve junto al arroz cocido.",
+                    "imagen": "salteadodechampiñonesyave_paso6.png" 
+                }
+            ],
+            "imagenFinal": "salteadodechampiñonesyave_final.png"
+        },
+        {
+            "nombre": "Estofado de ternera",
+            "nombreURL": "estofado_de_ternera",
+            "peli": "El castillo en el cielo",
+            "categoria": ["principales"],
+            "dificultad": 3,
+            "minutos": 345,
+            "raciones": 8,
+            "fotoPortada": "estofadodeternera_portada.png",
+            "fotosCarrusel": ["estofadodeternera_carrusel1.png", "estofadodeternera_carrusel2.png", "estofadodeternera_carrusel3.png"],
+            "contexto": "Sheeta es una joven inocente poseedora de los secretos de la ciudad perdida. Sheeta es atacada por unos piratas pero terminarán aliándose. Los bandidos se convertirán en una familia adoptiva después de que la jefa se convierta en la tía Dora. Sheeta se convierte en la cocinera entre unos fogones carcomidos. La niña debe alimentar a toda la tripulación sin abusar de las reservas de agua. El plato que realiza con ayuda de los piratas (que pelan y cortan las verduras) es un estofado de carne, patatas y zanahorias. Durante la elaboración la temible tripulación de piratas se convierte en una especie de familia con gente amable e inofensiva.",
+            "ingredientes": ["500g de carne de ternera", 
+                            "4 zanahorias", 
+                            "3 cebollas", 
+                            "10 patatas medianas", 
+                            "Sal gruesa", 
+                            "400g de arroz", 
+                            "De 3 a 4 cucharadas de caldo de ternera", 
+                            "25g de mantequilla sin sal", 
+                            "Aceite de oliva",
+                            "100g de harina", 
+                            "De 100 a 150ml de vino tinto",
+                            "3 cucharadas de pasta de miso blanco (shiro miso)",
+                            "1 atadillo de hierbas aromáticas (laurel y tomillo)",
+                            "400g de salsa de tomate", 
+                            "Sal",
+                            "Pimienta negra"],
+            "elaboracion": [
+                {
+                    "paso": "1. Corta la carne en dados gruesos. Pela las zanahorias y las cebollas y córtalas luego en láminas. Divide las rodajas de zanahoria en 2 partes y reservar. Pela las patatas y corta cada una en 4 trozos.",
+                    "imagen": "estofadodeternera_paso1.png" 
+                },
+                {
+                    "paso": "2. Calienta agua en una cacerola y añade las patatas y la mitad de las zanahorias con sal gruesa. En otra olla lava el arroz hasta que el agua salga limpia. Pon a cocer a fuego alto (el volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos. En una tercera olla calienta 1 litro de agua y añade el caldo de ternera. Lleva a ebullición.",
+                    "imagen": "estofadodeternera_paso2.png" 
+                },
+                {
+                    "paso": "3. Calienta la mantequilla y el aceite de oliva en una cacerola a fuego medio. Agrega la carne de ternera y dórala bien.",
+                    "imagen": "estofadodeternera_paso3.png" 
+                },
+                {
+                    "paso": "4. Saca la carne y rebózala en harina. Reserva en un plato.",
+                    "imagen": "estofadodeternera_paso4.png" 
+                },
+                {
+                    "paso": "5. Echa la otra parte de zanahoria con la cebolla en la cacerola. Remueve y, luego, sácalas y resérvalas en un plato a la espera del paso siguiente.",
+                    "imagen": "estofadodeternera_paso5.png" 
+                },
+                {
+                    "paso": "6. Quita el aceite de la cacerola y vierte el vino. Vuelve a incorporar la carne con la pasta de miso blanco, la zanahoria y la cebolla del paso anterior, el atadillo, la salsa de tomate y el consomé de la tercera olla.",
+                    "imagen": "estofadodeternera_paso6.png" 
+                },
+                {
+                    "paso": "7. Saca la patata y la zanahoria de la primera cacerola e incorpóralas a la marmita. Salpimentar, tapar y dejar cocer a fuego lento, entre 4 y 5 horas. Servir con el arroz blanco.",
+                    "imagen": "estofadodeternera_paso7.png" 
+                }
+            ],
+            "imagenFinal": "estofadodeternera_final.png"
+        },
+        {
+            "nombre": "Tenera strogonoff",
+            "nombreURL": "tenera_strogonoff",
+            "peli": "Mis vecinos los Yamada",
+            "categoria": ["principales", "faciles"],
+            "dificultad": 1,
+            "minutos": 15,
+            "raciones": 2 ,
+            "fotoPortada": "ternerastrogonoff_portada.png",
+            "fotosCarrusel": ["ternerastrogonoff_carrusel1.png", "ternerastrogonoff_carrusel2.png", "ternerastrogonoff_carrusel3.png"],
+            "contexto": "Se nos presenta a una familia japonesa actual con tintes absurdos y caricaturescos. Matsuko, la madre de familia, es una fuente de situaciones cómicas por su falta de creatividad y voluntad en la cocina. Shige, la abuela de la familia, decide cocinar ternera Strogonoff. Aunque no sabe pronunciar su nombre ni cocinarlo, conque terminan pidiendo sushi. \n La ternera Strogonoff es un estofado ruso que no resulta complicado aunque para Shige tiene la misma maña que su hija.",
+            "ingredientes": ["Aceite de oliva", 
+                            "½ cebolla", 
+                            "300g de carne de ternera", 
+                            "1 cucharadita de pimentón dulce", 
+                            "Sal",
+                            "Pimienta negra", 
+                            "50ml de vino blanco seco",
+                            "50ml de nata líquida", 
+                            "1 cucharadita de mostaza"],
+            "elaboracion": [
+                {
+                    "paso": "1. Calienta un de poco de aceite en la sartén a fuego alto y añade la cebolla cortada en láminas.",
+                    "imagen": "ternerastrogonoff_paso1.png" 
+                },
+                {
+                    "paso": "2. Corta la carne de ternera en tiras.",
+                    "imagen": "ternerastrogonoff_paso2.png" 
+                },
+                {
+                    "paso": "3. Cuando la cebolla comience a dorarse, añade la carne, repártela bien en la sartén y condiméntala con el pimentón, la sal y la pimienta. Haz bien la carne por todos los lados según el punto deseado y vierte por encima el vino blanco.",
+                    "imagen": "ternerastrogonoff_paso3.png" 
+                },
+                {
+                    "paso": "4. Cuando el vino se haya reducido, añade la nata y mezcla bien. Cocina hasta que espese la salsa y aparta del fuego.",
+                    "imagen": "ternerastrogonoff_paso4.png" 
+                },
+                {
+                    "paso": "5. Añade la mostaza fuera del fuego y vuelve a mezclar. Sirve en dos platos acompañada de un bol de arroz blanco. Para hacer el arroz blanco: En otra olla lava el arroz hasta que el agua salga limpia. Pon a cocer a fuego alto (el volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos.",
+                    "imagen": "ternerastrogonoff_paso5.png" 
+                }
+            ],
+            "imagenFinal": "ternerastrogonoff_final.png"
+        },
+        {
+            "nombre": "Espaguetis a la boloñesa con albóndigas",
+            "nombreURL": "espaguetis_a_la_bolonesa_con_albondigas",
+            "peli": "Porco Rosso",
+            "categoria": ["principales", "faciles"],
+            "dificultad": 2,
+            "minutos": 25,
+            "raciones": 2,
+            "fotoPortada": "espaguetisalaboloñesaconalbondigas_portada.png",
+            "fotosCarrusel": ["espaguetisalaboloñesaconalbondigas_carrusel1.png", "espaguetisalaboloñesaconalbondigas_carrusel2.png", "espaguetisalaboloñesaconalbondigas_carrusel3.png"],
+            "contexto": "El piloto Marco, transformado en cerdo en el transcurso de un vuelo, ha de reparar su hidroavión en el taller de Paolo Piccolo. Allí se encuentra con los componentes de la familia Piccolo. Todos se reúnen para comer unos espaguetis con albóndigas. \n Este plato sencillo y tradicional da pie a una conversación que no pone atención a la pasta sino al papel de la mujer en la sociedad.",
+            "ingredientes": ["350g de espaguetis",
+                            "Unas ramas de perejil",
+                            "2 dientes de ajo", 
+                            "200g de carne picada (preferentemente de cerdo)",
+                            "1 cucharadita de jengibre", 
+                            "Una piza de ajo en polvo",
+                            "1 cucharada o pastilla de caldo concentrado de pollo",
+                            "2 huevos", 
+                            "400g de salsa de tomate", 
+                            "2 tomates"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon a hervir agua con sal en una cacerola para cocer los espaguetis (en torno a 10 minutos, según el tiempo indicado en el envase y el punto de cocción deseado).",
+                    "imagen": "espaguetisalaboloñesaconalbondigas_paso1.png" 
+                },
+                {
+                    "paso": "2. Entretanto, pica tanto perejil como se desee, así como los dientes de ajo.",
+                    "imagen": "espaguetisalaboloñesaconalbondigas_paso2.png" 
+                },
+                {
+                    "paso": "3. Pon la carne en una ensaladera y añade el perejil, el ajo picado, el jengibre rallado y el ajo en polvo, así como el pimentón, el concentrado de caldo de pollo desmenuzado y los huevos. Mézclalo bien todo.",
+                    "imagen": "espaguetisalaboloñesaconalbondigas_paso3.png" 
+                },
+                {
+                    "paso": "4. Amasa la carne para hacer unas albóndigas, tantas como se quiera. Lo ideal es que quepan viene el hueco de la palma de la mano. Dóralas en la sartén hasta que estén bien hechas por todos lados. Saca una vez que estén listas.",
+                    "imagen": "espaguetisalaboloñesaconalbondigas_paso4.png" 
+                },
+                {
+                    "paso": "5. Añade los espaguetis cocidos a la sartén en la que se haya hecho la carne, a fuego lento, para añadir a continuación la salsa junto a los tomates cortados en dados. Mezcla el jugo de la carne con los espaguetis durante un par de minutos.",
+                    "imagen": "espaguetisalaboloñesaconalbondigas_paso5.png" 
+                },
+                {
+                    "paso": "6. Sirve en un plato con las albóndigas.",
+                    "imagen": "" 
+                }
+            ],
+            "imagenFinal": "espaguetisalaboloñesaconalbondigas_final.png"
+        },
+        {
+            "nombre": "Ramen",
+            "nombreURL": "ramen",
+            "peli": "Ponyo en el acantilado",
+            "categoria": ["principales", "sopas_y_arroces", "cocina_japonesa"],
+            "dificultad": 3,
+            "minutos": 45,
+            "raciones": 2 ,
+            "fotoPortada": "ramen_portada.png",
+            "fotosCarrusel": ["ramen_carrusel1.png", "ramen_carrusel2.png", "ramen_carrusel3.png"],
+            "contexto": "Ponyo es hija de un hechicero y de la divinidad de los mares. Al entrar en contacto con Sôsuke, de 5 años, Ponyo se convierte en una niña pequeña que lo ignora todo sobre el mundo. La madre de su amigo le sirve ramen. \n Esta especialidad japonesa consiste en una sopa de pasta asiática fina o gruesa (udon). La sopa puede ser más clara o espesa, y el tipo de guarnición, variado. Puede aderezarse con carne, pescado, huevos mollet, champiñones, algas y especias.",
+            "ingredientes": ["2L de agua", 
+                            "1 pastilla de concentrado de caldo de pollo",
+                            "3 cucharadas de salsa de soja", 
+                            "2 cucharadas de mirin",  
+                            "1 cucharadita de salsa de ostras",  
+                            "Azúcar blanco",  
+                            "4 dientes de ajo",  
+                            "Aceite de oliva", 
+                            "250g de carne de cerdo (por ejemplo panceta)", 
+                            "2 huevos",  
+                            "1 paquete de fideos (pueden ser soba o de otro tipo)",
+                            "1 puerro", 
+                            "Una pizca de jengibre fresco",  
+                            "300ml de leche de soja",  
+                            "1 cebolla",  
+                            "2 cebolletas",  
+                            "Sal",  
+                            "Pimienta negra", 
+                            "Opcional: 1 cucharada generosa de pasta de miso blanco (shiro miso)"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon a hervir 1 litro de agua en una cacerola. Añade la pastilla de caldo de pollo y la salsa de soja o 1 cucharada generosa de pasta de miso blanco. Prueba cada poco tiempo y ajusta el aderezo, añadiendo progresivamente más concentrado de pollo o pasta de miso, según se prefiera.",
+                    "imagen": "ramen_paso1.png" 
+                },
+                {
+                    "paso": "2. Mientras el caldo se calienta, prepara la marinada: pon las 2 cucharadas de salsa de soja restantes en un bol, junto al mirin y la salsa de ostras, añade entre 1 y 2 cucharadas de azúcar. Mezcla.",
+                    "imagen": "ramen_paso2.png" 
+                },
+                {
+                    "paso": "3. Machaca 3 dientes de ajo con la parte plana del cuchillo y córtalos en láminas finas. Añádelos a la marinada.",
+                    "imagen": "ramen_paso3.png" 
+                },
+                {
+                    "paso": "4. Calienta aceite en una sartén y fríe la carne por ambos lados, hasta que quede bien dorada. Córtala en filetes finos, para ponerlos a continuación en la sartén junto con el adobo. Dales la vuelta para que se hagan por los dos lados.",
+                    "imagen": "ramen_paso4.png" 
+                },
+                {
+                    "paso": "5. Pon agua a hervir en un cazo, introduce los huevos y cuece durante 6 minutos. Pasa después a un bol con agua fría y quítales la cáscara. En un segundo cazo cuece los fideos hasta que queden blancos y repártelos entre 2 boles.",
+                    "imagen": "ramen_paso5.png" 
+                },
+                {
+                    "paso": "6. Lava el puerro y corta la parte blanca en rodajas. Añádelas al caldo, junto con el diente de ajo picado, el jengibre rallado y la leche de soja.",
+                    "imagen": "ramen_paso6.png" 
+                },
+                {
+                    "paso": "7. Mientras se hace la sopa, corta la cebolla y las cebolletas en finas láminas. Corta los huevos por la mitad.",
+                    "imagen": "ramen_paso7.png" 
+                },
+                {
+                    "paso": "8. Echa el caldo a los boles con los fideos. Añade las mitades de los huevos y los filetes de carne y esparce la cebolla y la cebolleta por encima y, por último, salpimienta.",
+                    "imagen": "ramen_paso8.png" 
+                }
+            ],
+            "imagenFinal": "ramen_final.png"
+        },
+        {
+            "nombre": "Pastel de arenque y calabaza",
+            "nombreURL": "pastel_de_arenque_y_calabaza",
+            "peli": "Nicky, la aprendiz de bruja",
+            "categoria": ["principales"],
+            "dificultad": 3,
+            "minutos": 70,
+            "raciones": 6,
+            "fotoPortada": "pasteldearenqueconcalabaza_portada.png",
+            "fotosCarrusel": ["pasteldearenqueconcalabaza_carrusel1.png", "pasteldearenqueconcalabaza_carrusel2.png", "pasteldearenqueconcalabaza_carrusel3.png"],
+            "contexto": "A sus 13 años, Nicky debe completar su aprendizaje como bruja lejos de su familia. La vida ardua en la ciudad hace que Nicky funda un servicio de entrega a domicilio en escoba. Así es como recibe la llamada de una anciana que quiere que le lleven una comida casera para el cumpleaños de su nieta. El pastel de arenque está hecho con amor pero la entrega resultará decepcionante, puesto que la destinataria detesta el pastel de arenque con calabaza. ",
+            "ingredientes": ["1 rodaja grande de calabaza", 
+                            "20 aceitunas negras sin hueso",
+                            "2 dientes de ajo",
+                            "1 cebolla mediana", 
+                            "¾ de cucharadita de sal", 
+                            "½ cucharadita de pimienta negra", 
+                            "¼ de cucharadita de pimentón dulce", 
+                            "25g de mantequilla con sal", 
+                            "1 cucharada de aceite de oliva", 
+                            "200ml de nata líquida", 
+                            "4 filetes de arenque ahumado",
+                            "2 láminas de masa quebrada", 
+                            "1 huevo", 
+                            "Material: una vaporera"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pela la calabaza, retira las pepitas y córtala en cubos. Cuece al vapor durante unos 20 minutos.",
+                    "imagen": "pasteldearenqueconcalabaza_paso1.png" 
+                },
+                {
+                    "paso": "2. Corta 10 aceitunas en rodajas finas, pica el ajo y corta la cebolla en rodajas.",
+                    "imagen": "pasteldearenqueconcalabaza_paso2.png" 
+                },
+                {
+                    "paso": "3. Cuando la calabaza esté blanda, retírala del fuego y machácala hasta que se haga puré, añádele la sal, la pimienta, el pimentón, la mantequilla y las aceitunas en rodajas.",
+                    "imagen": "pasteldearenqueconcalabaza_paso3.png" 
+                },
+                {
+                    "paso": "4. En una sartén con aceite, sofríe el ajo junto con la cebolla hasta que empiece a dorarse y, luego, añade la nata líquida. Deja cocinar unos minutos y vierte sobre el puré de calabaza. Integra bien.",
+                    "imagen": "pasteldearenqueconcalabaza_paso4.png" 
+                },
+                {
+                    "paso": "5. Extiende la mezcla en la base de la fuente que se vaya a utilizar para cocinar el pastel, con cuidado de que el puré quede repartido de manera uniforme y lisa.",
+                    "imagen": "pasteldearenqueconcalabaza_paso5.png" 
+                },
+                {
+                    "paso": "6. Precalienta el horno a 180 ºC, calor arriba y abajo. Corta los filetes de arenque en trocitos y repártelos uniformemente sobre el puré.",
+                    "imagen": "pasteldearenqueconcalabaza_paso6.png" 
+                },
+                {
+                    "paso": "7. Cubre con una lámina de masa quebrada. Corta la otra lámina de masa quebrada en tiras anchas (también puede utilizarse los restos de la primera si hay) que repartiremos cruzadas sobre el conjunto (ver foto).",
+                    "imagen": "pasteldearenqueconcalabaza_paso7.png" 
+                },
+                {
+                    "paso": "8. Puedes reproducir el pez de la película, cortándolo (forma y escamas) con otra lámina de masa quebrada. Pon después sobre la capa de tiras.",
+                    "imagen": "pasteldearenqueconcalabaza_paso8.png" 
+                },
+                {
+                    "paso": "9. Con la punta de un cuchillo, haz 10 agujeritos en cruz sobre cada uno de los extremos de las tiras y pinta toda la superficie con yema de huevo batida. Pon las 10 aceitunas restantes sobre los orificios, a modo de decoración.",
+                    "imagen": "pasteldearenqueconcalabaza_paso9.png" 
+                },
+                {
+                    "paso": "10. Lleva al horno precalentado a 180ªC, calor arriba y abajo, y hornea durante 40 minutos.",
+                    "imagen": "pasteldearenqueconcalabaza_paso10.png" 
+                }
+            ],
+            "imagenFinal": "pasteldearenqueconcalabaza_final.png"
+        },
+        {
+            "nombre": "Sopa de verduras",
+            "nombreURL": "sopa_de_verduras",
+            "peli": "Cuentos de Terramar",
+            "categoria": ["sopas_y_arroces", "faciles"],
+            "dificultad": 1,
+            "minutos": 40,
+            "raciones": 4,
+            "fotoPortada": "sopadeverduras_portada.png",
+            "fotosCarrusel": ["sopadeverduras_carrusel1.png", "sopadeverduras_carrusel2.png", "sopadeverduras_carrusel3.png"],
+            "contexto": "El príncipe Arren, quien ha asesinado a su padre el rey, acaba siendo capturado por unos mercaderes. El archimago Gavilán lo libera y busca cobijo en la casa de Tenar. Tenar, una vieja amiga, le prepara una sopa. Esta sopa se cuece a fuego lento en una marmita, con tubérculos, aceitunas y tomates. ",
+            "ingredientes": ["1 puerro",
+                            "1 rábano blanco", 
+                            "2 zanahorias", 
+                            "1 calabacín",
+                            "1 cebolla", 
+                            "3 cucharadas de aceite de oliva", 
+                            "Una pizca de cúrcuma molida", 
+                            "Sal", 
+                            "Pimienta negra", 
+                            "1,5 l de agua caliente", 
+                            "1 cucharada o pastilla de caldo concentrado de pollo", 
+                            "50g de guisantes", 
+                            "20 aceitunas", 
+                            "30g de fideos vermicelli", 
+                            "400g de salsa de tomate", 
+                            "1 cucharada de perejil picado", 
+                            "1 cucharada de cilantro picado"],
+            "elaboracion": [
+                {
+                    "paso": "1. Corta en rodajas el puerro, el rábano, las zanahorias, el calabacín y la cebolla.",
+                    "imagen": "sopadeverduras_paso1.png" 
+                },
+                {
+                    "paso": "2. Calienta una olla con el aceite de oliva y añade el puerro y la cebolla. Cocina a fuego medio durante 3 minutos, con la olla tapada.",
+                    "imagen": "sopadeverduras_paso2.png" 
+                },
+                {
+                    "paso": "3. Añade la zanahoria, el rábano y la cúrcuma. Salpimienta al gusto y mezcla todo.",
+                    "imagen": "sopadeverduras_paso3.png" 
+                },
+                {
+                    "paso": "4. Añade el agua caliente, así como el concentrado de caldo de pollo, los guisantes y las aceitunas. Tapa y cocina unos 20 minutos. Durante este tiempo, pon los fideos en agua fría para hidratarlos y, luego, córtalos y divídelos en 4 porciones.",
+                    "imagen": "sopadeverduras_paso4.png" 
+                },
+                {
+                    "paso": "5. Incorpora la salsa de tomate, el perejil y el cilantro a la cacerola y mezcla. Deja que cueza durante 5 minutos más. Después, sirve la sopa en los boles con fideos.",
+                    "imagen": "sopadeverduras_paso5.png" 
+                }
+            ],
+            "imagenFinal": "sopadeverduras_final.png"
+        },
+        {
+            "nombre": "Arroz con mariscos",
+            "nombreURL": "arroz_con_mariscos",
+            "peli": "La tumba de las luciérnagas",
+            "categoria": ["sopas_y_arroces", "faciles"],
+            "dificultad": 2,
+            "minutos": 45,
+            "raciones": 2,
+            "fotoPortada": "arrozconmariscos_portada.png",
+            "fotosCarrusel": ["arrozconmariscos_carrusel1.png"],
+            "contexto": "Dos huérfanos, Seita, de 14 años, y su hermana Setsuko, de 4 años. Abandonados a su suerte, conocerán el hambre. Los niños acaban por escapar para vivir por sí mismos en un refugio en el que conseguirán seguir siendo los niños que son y reconstruir un cálido hogar. Pescan unos mariscos en un río y ponen a cocer un nabo que acompañan con arroz blanco. ",
+            "ingredientes": ["3 cucharadas de salsa de soja", 
+                            "2 cucharadas de mirin",
+                            "1 cucharada de aceite de sésamo",
+                            "½ limón",
+                            "1 cucharadita de pasta de miso blanco (shiro miso)",
+                            "3 dientes de ajo",
+                            "35g de almejas", 
+                            "35g de cañaíllas o caracolas de mar", 
+                            "35g de almendras de mar", 
+                            "Sal", 
+                            "40g de arroz", 
+                            "2 cebolletas", 
+                            "1 cebolla", 
+                            "1 cucharada de aceite de oliva"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon en una ensaladera la salsa de soja, el mirin, el aceite de sésamo, el limón y la pasta de soja. Pica el ajo e incorpóralo a la marinada. Remueve bien y reserva.",
+                    "imagen": "arrozconmariscos_paso1.png" 
+                },
+                {
+                    "paso": "2. Lava el marisco y déjalo reposar de 5 a 10 minutos en un recipiente con agua y sal.",
+                    "imagen": "arrozconmariscos_paso2.png" 
+                },
+                {
+                    "paso": "3. Pon a hervir 750ml de agua en una cacerola. Escurre el marisco y añádelo a la olla con el agua hirviendo. Añade el agua justa para que queden cubiertos. Sala. Deja que se cuezan durante unos 10 minutos y, después, escurrir.",
+                    "imagen": "arrozconmariscos_paso3.png" 
+                },
+                {
+                    "paso": "4. Lava el arroz hasta que el agua salga limpia. Pon a cocer en una agua con a fuego alto (le volumen del agua debe rebasar al de arroz por la altura de media falange) y lleva a ebullición. Una vez comience a hervir, tapa la olla, baja el fuego al mínimo y cocina durante 15 minutos.",
+                    "imagen": "arrozconmariscos_paso4.png" 
+                },
+                {
+                    "paso": "5. Corta la cebolleta y la cebolla en rodajas.",
+                    "imagen": "arrozconmariscos_paso5.png" 
+                },
+                {
+                    "paso": "6. Pon a calentar una sartén y añade después el aceite de oliva. Agrega el marisco y vierte por encima la marinada reservada e integra bien.",
+                    "imagen": "arrozconmariscos_paso6.png" 
+                },
+                {
+                    "paso": "7. Añade la cebolleta. Tapa la sartén y cuece 10 minutos a fuego lento. Sirve el arroz en un plato junto al marisco.",
+                    "imagen": "arrozconmariscos_paso7.png" 
+                }
+            ],
+            "imagenFinal": ""
+        },
+        {
+            "nombre": "Bollos rellenos de alubias rojas",
+            "nombreURL": "bollos_rellenos_de_alubias_rojas",
+            "peli": "El viaje de Chihiro",
+            "categoria": ["postres", "cocina_japonesa"],
+            "dificultad": 4,
+            "minutos": 180,
+            "raciones": 3,
+            "fotoPortada": "bollosrellenosdealubiasrojas_portada.png",
+            "fotosCarrusel": ["bollosrellenosdealubiasrojas_carrusel1.png", "bollosrellenosdealubiasrojas_carrusel2.png", "bollosrellenosdealubiasrojas_carrusel3.png"],
+            "contexto": "Mientras Chihiro trabaja en el onsen de los espíritus, rescata a un espíritu del río contaminado por residuos. En agradecimiento, este le regala una extraña bolita. Después de una dura jornada de trabajo Chihiro se come un anpan junto a su amiga Lin. \n Este producto de bollería clásico de Japón consiste en un bollo relleno con pasta de alubias rojas, aunque también puede estar relleno de sésamo o castañas. ",
+            "ingredientes": ["125ml de leche entera",
+                            "1 cucharada de levadura seca activa", 
+                            "200g de harina", 
+                            "Una pizca de levadura química", 
+                            "Una pizca de sal", 
+                            "10g de azúcar blanco",
+                            "500g de pasta de alubias rojas (anko)",
+                            "1 sobre (2g) de agar-agar", 
+                            "Aceite de oliva", 
+                            "Material: una vaporera"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon en un recipiente la leche, la levadura seca activa, 125g de la harina, levadura química, la sal y el azúcar. Mezcla bien todo hasta que obtengas una masa de consistencia blanda.",
+                    "imagen": "bollosrellenosdealubiasrojas_pas1o.png" 
+                },
+                {
+                    "paso": "2. Enharina la mesa de trabajo, pon sobre ella la masa y espolvorea por encima una cantidad generosa de harina. Amasa y vuelve a enharinar varias veces, trabajando la masa entre 10 y 15 minutos en total.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso2.png" 
+                },
+                {
+                    "paso": "3. Para saber si tiene la consistencia correcta, estira la masa y comprueba si trasluce sin llegar a romperse. Entonces, forma una bola y trasládala a un recipiente. Cubre y deja reposar en un lugar templado durante 1h y 30 minutos o hasta que haya doblado su volumen.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso3.png" 
+                },
+                {
+                    "paso": "4. Entretanto, pon la pasta de alubias roja en una cacerola, junto con el agar-agar y una cantidad suficiente de agua como para cubrirlo todo. Calienta a fuego medio mientras remueves, hasta que el agua se haya evaporado. Deja enfriar.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso4.png" 
+                },
+                {
+                    "paso": "5. Saca la masa del recipiente y dale forma de rectángulo sobre la mesa de trabajo previamente enharinada, para amasarla en forma cilíndrica. Divide en tres porciones iguales para hacer los bollos. ",
+                    "imagen": "bollosrellenosdealubiasrojas_paso5.png" 
+                },
+                {
+                    "paso": "6. Pellizca las porciones por arriba y dales forma con las manos hasta obtener unas bolas regulares. Cúbrelas y déjalas reposar durante otros 20 minutos.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso6.png" 
+                },
+                {
+                    "paso": "7. Aplánalas con un rodillo dejando los bordes más gruesos y el centro más ahuecado. Pon el relleno de alubias rojas. Repliega los bordes de todo el contorno de manera regular para cerrar los bollos. Con los dedos mojados con aceite de oliva, retuerce la parte superior para que queden bien sellados.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso7.png" 
+                },
+                {
+                    "paso": "8. Dispón sobre un trozo de papel vegetal con el cierre hacia abajo. Deja que reposen durante 10 minutos.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso8.png" 
+                },
+                {
+                    "paso": "9. Después, mételos en la vaporera durante 10 minutos y deja que se hagan.",
+                    "imagen": "bollosrellenosdealubiasrojas_paso9.png" 
+                }
+            ],
+            "imagenFinal": "bollosrellenosdealubiasrojas_final.png"
+        },
+        {
+            "nombre": "Pastitas de mantequilla",
+            "nombreURL": "pastitas_de_mantequilla",
+            "peli": "Susurros del corazón",
+            "categoria": ["postres", "faciles"],
+            "dificultad": 2,
+            "minutos": 120,
+            "raciones": 2,
+            "fotoPortada": "pastitasdemantequilla_portada.png",
+            "fotosCarrusel": ["pastitasdemantequilla_carrusel1.png", "pastitasdemantequilla_carrusel2.png", "pastitasdemantequilla_carrusel3.png"],
+            "contexto": "Shizuku decidida a aceptar su destino y asumir riesgos, anuncia durante un tentempié con su mejor amiga que se dispone a escribir una novela. En la mesa se ha servido té acompañado de unas pastas variadas. Entre ellas hay de formas redondas (de mantequilla) y palitos alargados y cubiertos de chocolate. Se tratan de los famosos Pocky. \n Estos aperitivos azucarados, de venta comercial en Japón desde 1966, llegaron a Europa mucho después con el nombre de Mikado. Los hay de todo tipo: chocolate con leche, fresa o té matcha.  ",
+            "ingredientes": ["90g de mantequilla sin sal", 
+                            "60g de azúcar blanco",
+                            "2g de extracto de vainilla", 
+                            "1 huevo", 
+                            "150g de harina"],
+            "elaboracion": [
+                {
+                    "paso": "1. Pon la mantequilla a temperatura ambiente, el azúcar y el extracto de vainilla en un recipiente. Bate bien todo hasta obtener una mezcla homogénea.",
+                    "imagen": "pastitasdemantequilla_paso1.png" 
+                },
+                {
+                    "paso": "2. Añade la yema del huevo y bate para integrar.",
+                    "imagen": "pastitasdemantequilla_paso2.png" 
+                },
+                {
+                    "paso": "3. Agrega la harina y mezcla bien. Cuando el conjunto adquiera una textura arenosa, amasa con las manos hasta formar una bola.",
+                    "imagen": "pastitasdemantequilla_paso3.png" 
+                },
+                {
+                    "paso": "4. Traslada la masa a otro recipiente, cubre, y deja que repose durante 1h y 30 minutos en el frigorífico. Cuando haya reposado, pon entre dos papeles vegetales o de horno y aplanarla con un rodillo.",
+                    "imagen": "pastitasdemantequilla_paso4.png" 
+                },
+                {
+                    "paso": "5. Quita el papel de encima y utiliza un molde para cortar la masa con la forma que se prefiera dar a las pastas de mantequilla.",
+                    "imagen": "pastitasdemantequilla_paso5.png" 
+                },
+                {
+                    "paso": "6. Calienta el horno a 180 ºC, calor arriba y abajo. Hornea las pastas durante unos 10 minutos o hasta que los bordes estén dorados. ¡Deja enfriar antes de comer!",
+                    "imagen": "pastitasdemantequilla_paso6.png" 
+                }
+            ],
+            "imagenFinal": "pastitasdemantequilla_final.png"
+        },
+        {
+            "nombre": "Galletas confitadas",
+            "nombreURL": "galletas_confitadas",
+            "peli": "Arriety y el mundo de los diminutos",
+            "categoria": ["postres"],
+            "dificultad": 3,
+            "minutos": 90,
+            "raciones": 2,
+            "fotoPortada": "galletasconfitadas_portada.png",
+            "fotosCarrusel": ["galletasconfitadas_carrusel1.png", "galletasconfitadas_carrusel2.png", "galletasconfitadas_carrusel3.png"],
+            "contexto": "El destino de Shô, un adolescente enfermo que está a la espera de una operación de corazón, se cruza con el de Arrietty, que pertenece a la especie de los diminutos. El encuentro fortuito de estos dos jóvenes será la causa de la partida de los diminutos. Mientras buscan un nuevo hogar, el padre de Arietty es salvado por Spiller, otro ser diminuto. Es por ello que lo invitan a la casa de muñecas en la que toda la familia vive y le sirven té y unas galletas confitadas en agradecimiento.",
+            "ingredientes": ["250g de harina", 
+                            "125g de azúcar glas",
+                            "½ sobre de levadura química", 
+                            "1 sobre de azúcar vainillado", 
+                            "125g de mantequilla sin sal",
+                            "1 huevo",
+                            "2g de sal",
+                            "6 cucharadas colmadas de mermelada al gusto"],
+            "elaboracion": [
+                {
+                    "paso": "1. Tamiza la harina y el azúcar glas en un bol. Agrega la levadura y el azúcar vainillado y mezcla.",
+                    "imagen": "galletasconfitadas_paso1.png" 
+                },
+                {
+                    "paso": "2. Corta la mantequilla (que esté, a ser posible, a temperatura ambiente) en cubitos, incorpora a la mezcla e integra bien.",
+                    "imagen": "galletasconfitadas_paso2.png" 
+                },
+                {
+                    "paso": "3. Bate el huevo y añádelo a la mezcla, junto a la sal. Mezcla hasta obtener una masa homogénea. Cubre y deja reposar en el frigorífico durante 1h.",
+                    "imagen": "galletasconfitadas_paso3.png" 
+                },
+                {
+                    "paso": "4. Precalienta el horno a 150 ºC, calor arriba y abajo. Enharina la mesa de trabajo y saca la masa del frigorífico. Estira con la ayuda de un rodillo hasta dejarla con un espesor de unos 3 o 4 milímetros. Corta las galletas de la masa con el cortador elegido.",
+                    "imagen": "galletasconfitadas_paso4.png" 
+                },
+                {
+                    "paso": "5. Hornea durante 10 minutos, vigilando que no se doren ni se hagan demasiado. Deben tener un aspecto esponjoso y poco tostado.",
+                    "imagen": "galletasconfitadas_paso5.png" 
+                },
+                {
+                    "paso": "6. Retira del horno y déjalas enfriar. Añade la mermelada sobre una galleta, cubre con otra de la misma forma con un orificio en el centro y espolvorea con azúcar glas.",
+                    "imagen": "galletasconfitadas_paso6.png" 
+                }
+            ],
+            "imagenFinal": "galletasconfitadas_final.png"
+        },
+        {
+            "nombre": "Bizcocho de vainilla",
+            "nombreURL": "bizcocho_de_vainilla",
+            "peli": "Haru en el reino de los gatos",
+            "categoria": ["postres", "faciles"],
+            "dificultad": 2,
+            "minutos": 95,
+            "raciones": 4,
+            "fotoPortada": "bizcochodevainilla_portada.png",
+            "fotosCarrusel": ["bizcochodevainilla_carrusel1.png", "bizcochodevainilla_carrusel2.png", "bizcochodevainilla_carrusel3.png"],
+            "contexto": "Haru, una estudiante japonesa, salva a un gato de una muerte segura. En agradecimiento, invitan a la joven a casarse con el príncipe del reino de los gatos. Para escapar del matrimonio, Haru acude al Ministerio de los Gatos conoce a Baron, un pequeño felino aristocrático. Baron la invita a un té y para acompañar la bebida, le ofrece un esponjoso bizcocho de vainilla. \n Este plato viene en referencia al conocido té de las cinco que se suele acompañar con un surtido de comida dulce o salada. Lo habitual es servirlo con un clotted cream, una nata montada muy espesa.",
+            "ingredientes": ["85g de queso crema", 
+                            "30g de mantequilla sin sal",
+                            "65ml de leche", 
+                            "35g de harina", 
+                            "10g de harina fina de maíz o maicena", 
+                            "2g de extracto de vainilla", 
+                            "55g de azúcar blanco"],
+            "elaboracion": [
+                {
+                    "paso": "1. En una cacerola, calienta el queso crema, la mantequilla y la leche a fuego lento. Después, mezcla hasta obtener una textura líquida pero con cuerpo.",
+                    "imagen": "bizcochodevainilla_paso1.png" 
+                },
+                {
+                    "paso": "2. Separa las yemas y las claras de los huevos y ponlas en 2 recipientes separados. Bate las yemas y añade a la mezcla obtenida en el paso anterior. Integra bien.",
+                    "imagen": "bizcochodevainilla_paso2.png" 
+                },
+                {
+                    "paso": "3. Tamiza la maicena con la harina y añade también al conjunto. Agrega a continuación el extracto de vainilla y combínalo. Reserva.",
+                    "imagen": "bizcochodevainilla_paso3.png" 
+                },
+                {
+                    "paso": "4. Monta las claras a punto de nieve añadiendo el azúcar en 3 veces, hasta que obtengas una textura ligeramente cremosa. Atención: no se deben batir en exceso las claras o el bizcocho podría quedar demasiado seco.",
+                    "imagen": "bizcochodevainilla_paso4.png" 
+                },
+                {
+                    "paso": "5. Incorpora las claras a punto de nieve a la masa reservada y mezcla.",
+                    "imagen": "bizcochodevainilla_paso5.png" 
+                },
+                {
+                    "paso": "6. Calienta el horno a 120 ºC. Vierte la mezcla en un molde redondo y ponlo en un recipiente con agua tibia para preparar un baño maría. Traslada al horno y hornea: 20 minutos a 120 ºC; 20 minutos a 150 ºC; 30 minutos a 110 ºC y, por último, 5 minutos a 180 ºC.",
+                    "imagen": "bizcochodevainilla_paso6.png" 
+                },
+                {
+                    "paso": "7. Retira del horno y deja enfriar antes de desmoldar.",
+                    "imagen": "bizcochodevainilla_paso7.png" 
+                }
+            ],
+            "imagenFinal": "bizcochodevainilla_final.png"
+        },
+        {
+            "nombre": "Bizcocho de frutos secos",
+            "nombreURL": "bizcocho_de_frutos_secos",
+            "peli": "Nausicaä del valle del viento",
+            "categoria": ["postres", "faciles"],
+            "dificultad": 2,
+            "minutos": 60,
+            "raciones": 6,
+            "fotoPortada": "bizcochodefrutossecos_portada.png",
+            "fotosCarrusel": ["bizcochodefrutossecos_carrusel1.png", "bizcochodefrutossecos_carrusel2.png"],
+            "contexto": "En un mundo postapocalíptico, los seres humanos luchan por sobrevivir en un entorno donde el aire es irrespirable. Nausicaa, princesa del Valle del Viento, intenta ayudar a la humanidad. Durante su periplo, salvará la vida de Asbel, un príncipe dominado por la sed de venganza. La joven le ofrece a su camarada unas nueces de chico. El joven encuentra que tienen un sabor horrible, pero la existencia de esas semillas de esperanza es la prueba de que la tierra no es completamente estéril. ",
+            "ingredientes": ["250g de frutos secos (nueces, anacardos, almendras, cacahuetes, etc.)",
+                            "4 huevos", 
+                            "250g de azúcar glas", 
+                            "125g de mantequilla sin sal",
+                            "150ml de leche", 
+                            "1 sobre de levadura química", 
+                            "180g de harina"],
+            "elaboracion": [
+                {
+                    "paso": "1. Machaca los frutos secos con un rodillo dentro de una bolsa de plástico, para así conservar todas las migas que puedan soltar.",
+                    "imagen": "bizcochodefrutossecos_paso1.png" 
+                },
+                {
+                    "paso": "2. Separa las claras y las yemas de los huevos. Mezcla en un bol con azúcar glas, la mantequilla a temperatura ambiente y las yemas. Cuando la mezcla esté bien homogénea, añade la leche, los frutos secos, la levadura y la harina. Mezcla hasta que haya espesado.",
+                    "imagen": "bizcochodefrutossecos_paso2.png" 
+                },
+                {
+                    "paso": "3. Monta las claras a punto de nieve, luego añádelas a la masa en 2 tandas, incorporándolas con delicadeza y con la ayuda de una espátula con movimientos envolventes. Airea bien la masa.",
+                    "imagen": "bizcochodefrutossecos_paso3.png" 
+                },
+                {
+                    "paso": "4. Calienta el horno a 180 ºC, calor arriba y abajo. Vierte la masa en el molde que es prefiera (engrasado con mantequilla y harina, si fuese necesario) y hornea durante unos 40 minutos. Deja enfriar antes de desmoldar y espolvorea con más azúcar glas.",
+                    "imagen": "bizcochodefrutossecos_paso4.png" 
+                }
+                
+            ],
+            "imagenFinal": "bizcochodefrutossecos_final.png"
+        },
+        {
+            "nombre": "Castella Siberia",
+            "nombreURL": "castella_siberia",
+            "peli": "El viento se levanta",
+            "categoria": ["postres"],
+            "dificultad": 4,
+            "minutos": 90,
+            "raciones": 8,
+            "fotoPortada": "castellasiberia_portada.png",
+            "fotosCarrusel": ["castellasiberia_carrusel1.png", "castellasiberia_carrusel2.png", "castellasiberia_carrusel3.png"],
+            "contexto": "Jirô Horikoshi tiene un deseo obsesivo de volar. Esta película trata sobre la biografía del ingeniero aeronáutico del mismo nombre. Sus sueños están exentos de dicha condición, puesto que ve las alas de una aeronave hasta en las aletas de un arenque. Una tarde, se encuentra con unos niños abandonados que esperan solos el regreso de sus padres. Jirô les ofrece parte de un pastel Siberia que acaba de comprar de la tienda. Ellos lo rechazan. \n El Siberia era un dulce muy apreciado en el archipiélago entre los años 1920 y 1960. Está hecho con un bizcocho genovés conocido como kasutera o castella, relleno de una pasta de alubias rojas.",
+            "ingredientes": ["115g de mantequilla dulce", 
+                            "115ml de leche entera",
+                            "7 huevos", 
+                            "115g de harina", 
+                            "120 ml de agua", 
+                            "500g de pasta de alubias rojas (anko)",
+                            "10g de agar-agar"],
+            "elaboracion": [
+                {
+                    "paso": "1. Calienta en una cacerola a fuego medio la mantequilla y la leche, removiendo con regularidad. Cuando la mezcla esté bien fundida, retira del fuego para dejar que se temple.",
+                    "imagen": "castellasiberia_paso1.png" 
+                },
+                {
+                    "paso": "2. Separa las claras de las yemas de los huevos y ponlos en dos recipientes distintos. Tamiza la harina en un recipiente y ve incorporándola a la mezcla templada hasta obtener una masa. Añade las yemas de los huevos en 3 veces y mezcla.",
+                    "imagen": "castellasiberia_paso2.png" 
+                },
+                {
+                    "paso": "3. Bate las claras de los huevos, añadiendo lentamente el azúcar. Ha de formarse una especie de merengue líquido y ligero, que se quede pegado al batidor.",
+                    "imagen": "castellasiberia_paso3.png" 
+                },
+                {
+                    "paso": "4. Agrega poco a poco el merengue a la masa y ve mezclando despacio y de forma uniforme con movimientos envolventes hasta obtener una mezcla de un solo color.",
+                    "imagen": "castellasiberia_paso4.png" 
+                },
+                {
+                    "paso": "5. Calienta el horno a 150 ºC. Vierte la masa en un molde grande forrado con papel vegetal. Introduce el molde en una bandeja con agua tibia. Hornea al baño maría durante 1h. Retira del horno y deja enfriar 10 minutos antes de desmoldar.",
+                    "imagen": "castellasiberia_paso5.png" 
+                },
+                {
+                    "paso": "6. Mientras se enfría, pon a hervir 120 mililitros de agua, agrega la pasta de alubias rojas y el agar-agar y calienta hasta que se disuelva bien. Retira del fuego y deja enfriar.",
+                    "imagen": "castellasiberia_paso6.png" 
+                },
+                {
+                    "paso": "7. Divide la masa en 2 partes. Extiende la pasta de alubias rojas sobre una de ellas, repartiéndola uniformemente. Pon la otra encima, dejando hacia fuera el lado que está más dorado, y refrigera durante 4 horas. ",
+                    "imagen": "castellasiberia_paso7.png" 
+                },
+                {
+                    "paso": "8. Corta en triángulos antes de servir.",
+                    "imagen": "" 
+                }
+            ],
+            "imagenFinal": "castellasiberia_final.png"
+        },
+        {
+            "nombre": "Tarta de piña",
+            "nombreURL": "tarta_de_pina",
+            "peli": "Recuerdos del ayer",
+            "categoria": ["postres"],
+            "dificultad": 3,
+            "minutos": 60,
+            "raciones": 4,
+            "fotoPortada": "tartadepiña_portada.png",
+            "fotosCarrusel": ["tartadepiña_carrusel1.png", "tartadepiña_carrusel2.png", "tartadepiña_carrusel3.png"],
+            "contexto": "Taeko es una niña urbanita de diez años que soñaba con el campo. Se nos muestra la sociedad japonesa de 1966, en la que hubo un gran desarrollo económico y de internacionalización en el archipiélago. Taeko se debate entre la vida en el campo o la ciudad. Un día, Taeko convence a su padre para comprar una piña entera, pero el problema es que la gente de ciudad no sabe cómo comerla. La fruta es un producto exótico que los urbanitas solo comen en lata. Después de días de estudio para saber cómo prepararla, Taeko se lleva una decepción porque no era tan dulce como esperaba. ",
+            "ingredientes": ["80g de mantequilla sin sal", 
+                            "230g de azúcar blanco",
+                            "1 cucharada de extracto de vainilla", 
+                            "3 huevos", 
+                            "180g de harina", 
+                            "1 sobre de levadura química", 
+                            "Una pizca de sal",
+                            "4 cucharadas de agua", 
+                            "1 bote de piña en rodajas", 
+                            "Opcional: un chorrito de ron"],
+            "elaboracion": [
+                {
+                    "paso": "1. Mezcla la mantequilla, 80g de azúcar y el extracto de vainilla en un recipiente hasta obtener una masa homogénea.",
+                    "imagen": "tartadepiña_paso1.png" 
+                },
+                {
+                    "paso": "2. Bate los huevos a añádelos a la mezcla. Combina bien.",
+                    "imagen": "tartadepiña_paso2.png" 
+                },
+                {
+                    "paso": "3. Tamiza la harina con la levadura y añade muy lentamente a la mezcla sin dejar de remover. Bate por segunda vez, añadiendo la pizca de sal y, si se desea, el ron.",
+                    "imagen": "tartadepiña_paso3.png" 
+                },
+                {
+                    "paso": "4. Unta de mantequilla el molde que se vaya a utilizar y cubre la base con un trozo de papel de aluminio del mismo tamaño que el recipiente. Engrasa también la superficie del papel de aluminio, después de haberlo ajustado bien. Calienta el horno a 180 ºC, calor arriba y abajo.",
+                    "imagen": "tartadepiña_paso4.png" 
+                },
+                {
+                    "paso": "5. Prepara el caramelo en una cacerola a fuego lento disolviendo el azúcar restante en las cucharadas de agua. Cuando la mezcla empiece a adquirir un tono dorado, remueve bien en amplios movimientos circulares.",
+                    "imagen": "tartadepiña_paso5.png" 
+                },
+                {
+                    "paso": "6. Viértela en el molde y asegúrate de cubrir toda la superficie de este.",
+                    "imagen": "tartadepiña_paso6.png" 
+                },
+                {
+                    "paso": "7. Pon después las rodajas de piña sobre el caramelo, incorpora la masa por encima y alísala.",
+                    "imagen": "tartadepiña_paso7.png" 
+                },
+                {
+                    "paso": "8. Hornea a 180 ºC durante 45 minutos. Deja que se enfríe un poco antes de desmoldarla al revés para que la piña quede en la parte superior de la tarta.",
+                    "imagen": "tartadepiña_paso8.png" 
+                }
+            ],
+            "imagenFinal": "tartadepiña_final.png"
+        },
+        {
+            "nombre": "Tarta de chocolate",
+            "nombreURL": "tarta_de_chocolate",
+            "peli": "Nicky, la aprendiz de bruja",
+            "categoria": ["postres"],
+            "dificultad": 4,
+            "minutos": 105,
+            "raciones": 6,
+            "fotoPortada": "tartadechocolate_portada.png",
+            "fotosCarrusel": ["tartadechocolate_carrusel1.png", "tartadechocolate_carrusel2.png", "tartadechocolate_carrusel3.png"],
+            "contexto": "En el segundo encuentro entre la anciana y Nicky, la señora quiere agradecer a Nicky por su empeño en la entrega en el pastel de arenque. Es por ello que la anciana le regala un pastel de chocolate, de aspecto fabuloso, con una decoración que incluye el nombre de Nicky y su silueta montada en una escoba. La tarta de chocolate no es solo una comida sino una razón para alegrar el corazón de ambos personajes.",
+            "ingredientes": ["4 huevos", 
+                            "320g de azúcar blanco", 
+                            "65ml de leche entera", 
+                            "2g de extracto de vainilla", 
+                            "35g de harina", 
+                            "100g de cacao puro en polvo sin azúcar", 
+                            "1 sobre de levadura química", 
+                            "125ml de agua", 
+                            "120ml de nata 35% M.G",
+                            "5 o 6 hojas de gelatina", 
+                            "Opcional: pasta de azúcar (fondant) de color verde, blanco y rojo"],
+            "elaboracion": [
+                {
+                    "paso": "1. Separa las claras de las yemas de los huevo y ponlos en 2 recipientes distintos. Bate las yemas y añade, después, 50 gramos de azúcar. Mezcla hasta obtener una pasta homogénea.",
+                    "imagen": "tartadechocolate_paso1.png" 
+                },
+                {
+                    "paso": "2. Incorpora la leche, el extracto de vainilla y la harina tamizada con 35 gramos del cacao y la levadura. Mezcla bien.",
+                    "imagen": "tartadechocolate_paso2.png" 
+                },
+                {
+                    "paso": "3. Bate las claras a punto de nieve, luego añade 50g de azúcar en 3 veces. Hay que tener cuidado de no batir en exceso, pues la mezcla ha de quedar ligeramente líquida.",
+                    "imagen": "tartadechocolate_paso3.png" 
+                },
+                {
+                    "paso": "4. Bate las claras a punto de nieve, luego añade 50g de azúcar en 3 veces. Hay que tener cuidado de no batir en exceso, pues la mezcla ha de quedar ligeramente líquida.",
+                    "imagen": "tartadechocolate_paso4.png" 
+                },
+                {
+                    "paso": "5. Pon el molde dentro de un recipiente con agua caliente. Mete después el conjunto en el horno precalentado y hornea al baño maría durante 20 minutos; después a 150 ºC durante 20 minutos; 110 ºC durante 30 minutos y, por último, otros 5 minutos a 180 ºC.",
+                    "imagen": "tartadechocolate_paso5.png" 
+                },
+                {
+                    "paso": "6. En un cazo, pon a hervir 125ml de agua con el azúcar restante. Cuando el líquido haya adquirido un tono blanquecino y se haya disuelto el azúcar, retira del fuego.",
+                    "imagen": "tartadechocolate_paso6.png" 
+                },
+                {
+                    "paso": "7. Incorpora el resto del cacao y la nata. Remuévelo bien todo y vuelve a poner en el fuego.",
+                    "imagen": "tartadechocolate_paso7.png" 
+                },
+                {
+                    "paso": "8. Hidrata las hojas de gelatina en un recipiente con agua fría durante 1 minutos. Cuando se hayan reblandecido, escúrrelas y añádelas al contenido del cazo y mezcla.",
+                    "imagen": "tartadechocolate_paso8.png" 
+                },
+                {
+                    "paso": "9. Cocina hasta que consigas una textura homogénea, filtra el glaseado con la ayuda del colador y deja enfriar.",
+                    "imagen": "tartadechocolate_paso9.png" 
+                },
+                {
+                    "paso": "10. Desmolda el bizcocho genovés y ponlo sobre una rejilla. Vierte de manera uniforme el glaseado por encima de la tarta y deja reposar.",
+                    "imagen": "tartadechocolate_paso10.png" 
+                },
+                {
+                    "paso": "11. Opcional: Amasa las pastas de azúcar (fondant) y forma una bola con cada color, extiéndelas por separado con ayuda de un rodillo.",
+                    "imagen": "tartadechocolate_paso11.png" 
+                },
+                {
+                    "paso": "12. Opcional: Dibuja en papel las figuras de Nicky, su gato Jiji, un abeto pequeño, un lazo y las letras N-I-C-K-Y, siguiendo el ejemplo de las imágenes como modelo, y luego recorta el fondant según los patrones. Dispón los elementos decorativos sobre la tarta.",
+                    "imagen": "tartadechocolate_paso12.png" 
+                }
+            ],
+            "imagenFinal": "tartadechocolate_final.png"
+        }
+    ]
+}
