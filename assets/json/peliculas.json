@@ -1,0 +1,213 @@
+{
+    "Peliculas": [
+        {
+            "nombre": "Mi vecino Totoro",
+            "nombreURL": "mi_vecino_totoro",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1988",
+            "fotoCartel": "mivecinototoro_cartel.jpg",
+            "fotosCarrusel": ["mivecinototoro_carrusel1.png", "mivecinototoro_carrusel2.png", "mivecinototoro_carrusel3.png"],
+            "sinopsis": "Satsuki y Mei son dos niñas que se mudan al campo junto con su padre, un profesor de universidad. Padre e hijas comienzan a vivir en una vieja casa campestre, cercana al hospital donde la madre de las niñas trata de recuperarse de una grave enfermedad. El nuevo hogar de las pequeñas esconde nuevos y emocionantes misterios, entre ellos, la presencia de unas pequeñas y oscuras criaturas del polvo que habitan la casa. Las niñas conocerán también a Totoro, una gigantesca y simpática criatura que vive en el bosque que rodea su nuevo hogar.",
+            "enlaceVideo": "https://youtube.com/watch?v=92a7Hj0ijLs"
+        },
+        {
+            "nombre": "Nausicaa del valle del viento",
+            "nombreURL": "nausicaa_del_valle_del_viento",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1984",
+            "fotoCartel": "nausicaadelvalledelviento.jpg",
+            "fotosCarrusel": ["nausicaadelvalledelviento_carrusel1.png", "nausicaadelvalledelviento_carrusel2.png", "nausicaadelvalledelviento_carrusel3.png"],
+            "sinopsis": "Mil años después de una gran guerra, un reino costero conocido como el Valle del Viento es una de las únicas zonas que permanece poblada. Liderados por la valiente princesa Nausicaä, los habitantes del Valle están enfrascados en una lucha constante con poderosos insectos llamados ohmu, que custodian una jungla venenosa que se está extendiendo por la Tierra. Nausicaä y sus valientes compañeros, junto con la gente del Valle, se esfuerzan por restaurar el vínculo entre la humanidad y la tierra.",
+            "enlaceVideo": "https://youtube.com/watch?v=6zhLBe319KE"
+        },
+        {
+            "nombre": "El castillo en el cielo",
+            "nombreURL": "el_castillo_en_el_cielo",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1986",
+            "fotoCartel": "elcastilloenelcielo_cartel.jpg",
+            "fotosCarrusel": ["elcastilloenelcielo_carrusel1.png", "elcastilloenelcielo_carrusel2.png", "elcastilloenelcielo_carrusel3.png"],
+            "sinopsis": "Pazu, un aprendiz de ingeniero, encuentra a una joven, Sheeta, flotando desde el cielo con un colgante brillante. Juntos descubren que ambos están buscando el legendario castillo flotante Laputa y prometen desentrañar el misterio del cristal luminoso alrededor de su cuello. Sin embargo, su búsqueda no será fácil. Hay piratas aéreos, agentes secretos y obstáculos asombrosos que los mantienen alejados de la verdad y entre sí.",
+            "enlaceVideo": "https://youtube.com/watch?v=8ykEy-yPBFc"
+        },
+        {
+            "nombre": "La tumba de las luciérnagas",
+            "nombreURL": "la_tumba_de_las_luciernagas",
+            "director": "ISAO TAKAHATA",
+            "anyo": "1988",
+            "fotoCartel": "latumbadelasluciernagas_cartel.jpg",
+            "fotosCarrusel": [],
+            "sinopsis": "En los últimos días de la Segunda Guerra Mundial, Seita, de 14 años, y su hermana Setsuko, de cuatro años, quedan huérfanos después de que su madre es asesinada durante un ataque aéreo por las fuerzas estadounidenses en Kobe, Japón. Después de tener una pelea con su tía, se mudan a un refugio antiaéreo abandonado. Sin familiares sobrevivientes y sus fondos y raciones de emergencias agotadas, Seita y Setsuko deben luchar para sobrevivir tanto a sus dificultades como a las de su país, que está en el extremo perdedor de la guerra.",
+            "enlaceVideo": "https://youtube.com/watch?v=4vPeTSRd580"
+        },
+        {
+            "nombre": "Nicky, aprendiz de bruja",
+            "nombreURL": "nicky_aprendiz_de_bruja",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1989",
+            "fotoCartel": "nickylaaprendizdebruja_cartel.jpg",
+            "fotosCarrusel": ["nickylaaprendizdebruja_carrusel1.png", "nickylaaprendizdebruja_carrusel2.png", "nickylaaprendizdebruja_carrusel3.png"],
+            "sinopsis": "Es tradición que todas las jóvenes brujas dejen a sus familias en la noche de luna llena para aprender su oficio. Esa noche llega para Kiki, quien sigue su sueño y se embarca en la experiencia de su vida. \n Con su hablador gato negro, Jiji, vuela para encontrar el lugar perfecto en una ciudad lejana. Allí, el dueño de una panadería se hace amigo de Kiki y la ayuda a iniciar su propio negocio: un servicio de entrega de alto nivel.",
+            "enlaceVideo": "https://youtube.com/watch?v=4bG17OYs-GA"
+        },
+        {
+            "nombre": "Porco Rosso",
+            "nombreURL": "porco_rosso",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1988",
+            "fotoCartel": "porcorosso_cartel.jpg",
+            "fotosCarrusel": ["porcorosso_carrusel1.png", "porcorosso_carrusel2.png", "porcorosso_carrusel3.png"],
+            "sinopsis": "La Primera Guerra Mundial ha terminado y la paz reina nuevamente. Aviadores de todo el mundo vuelan sobre el mar Adriático, deseosos de recuperar el romanticismo del vuelo perdido durante la guerra. Muchos han recurrido a la piratería aérea, entre la que surge un héroe: un hombre con cabeza de cerdo, conocido como Porco Rosso (antiguo piloto de la fuerza aérea italiana llamado Marco Paggot). \n Como mercenario encargado de hacer cumplir la ley en los cielos y océanos, Porco Rosso protege a los cruceros de los piratas aéreos que se encuentran sobre ellos. Cuando sus acciones son desafiadas por Curtis, un estadounidense que vuela con los piratas, Porco Rosso se ve obligado a defender su honor contra este recién llegado, lo que lo lleva a Fio, un joven ingeniero luchador que reconstruye el avión de Porco para la gran pelea de perros.",
+            "enlaceVideo": "https://youtube.com/watch?v=awEC-aLDzjs"
+        },
+        {
+            "nombre": "Recuerdos del ayer",
+            "nombreURL": "recuerdos_del_ayer",
+            "director": "ISAO TAKAHATA",
+            "anyo": "1991",
+            "fotoCartel": "recuerdosdelayer.jpg",
+            "fotosCarrusel": ["recuerdosdelayer_carrusel1.png", "recuerdosdelayer_carrusel2.png", "recuerdosdelayer_carrusel3.png"],
+            "sinopsis": "Taeko, una mujer soltera que trabaja en una oficina en Tokio, ha llegado a un punto en su vida en el que necesita alejarse de su trabajo, de su familia y, sobre todo, de la vida en la gran ciudad. Unas vacaciones muy necesarias en el campo despiertan recuerdos de la infancia, recordando su época de colegiala en 1966. En medio de hermosos paisajes rurales, Taeko reflexiona sobre su vida y, al formar nuevas amistades, comienza a tomar algunas decisiones difíciles sobre su futuro.",
+            "enlaceVideo": "https://youtube.com/watch?v=OfkQlZArxw0"
+        },
+        {
+            "nombre": "Pompoko",
+            "nombreURL": "pompoko",
+            "director": "ISAO TAKAHATA",
+            "anyo": "1994",
+            "fotoCartel": "pompoko_cartel.jpg",
+            "fotosCarrusel": ["pompoko_carrusel1.png", "pompoko_carrusel2.png", "pompoko_carrusel3.png"],
+            "sinopsis": "Los mapaches de las colinas de Tama se ven obligados a abandonar sus hogares por el rápido desarrollo de casas y centros comerciales. A medida que se hace más difícil encontrar comida y refugio, deciden unirse y contraatacar. Los mapaches practican y perfeccionan el antiguo arte de la transformación hasta que incluso pueden aparecer como humanos. De maneras a menudo hilarantes, los mapaches usan sus poderes para tratar de asustar el avance de la civilización. ¿Pero será suficiente? ¿O aprenderán los mapaches a vivir en equilibrio con el mundo moderno?",
+            "enlaceVideo": "https://youtube.com/watch?v=_7cowIHjCD4"
+        },
+        {
+            "nombre": "Susurros del corazón",
+            "nombreURL": "susurros_del_corazon",
+            "director": "YOSHIFUMI KONDO",
+            "anyo": "1995",
+            "fotoCartel": "susurrosdelcorazon_cartel.jpg",
+            "fotosCarrusel": ["susurrosdelcorazon_carrusel1.png", "susurrosdelcorazon_carrusel2.png", "susurrosdelcorazon_carrusel3.png"],
+            "sinopsis": "Shizuku Tsukishima es una especie de ratón de biblioteca y pasó sus últimas vacaciones de verano en la escuela secundaria leyendo y traduciendo música popular extranjera al japonés. Con aspiraciones de algún día convertirse en escritora, Shizuku no puede evitar notar que el nombre Seiji Amasawa aparece en cada uno de los libros que toma prestados de la biblioteca. \n A través de una serie de incidentes curiosos y mágicos, conoce a Seiji y descubre que él sueña con convertirse en un famoso fabricante de violines en Italia. Si bien sus objetivos de toda la vida los llevan en dos direcciones diferentes, Shizuku y Seiji están decididos a permanecer fieles a sus fuertes sentimientos mutuos.",
+            "enlaceVideo": "https://youtube.com/watch?v=0pVkiod6V0U"
+        },
+        {
+            "nombre": "La princesa Mononoke",
+            "nombreURL": "la_princesa_mononoke",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "1997",
+            "fotoCartel": "laprincesamononoke_cartel.jpg",
+            "fotosCarrusel": ["laprincesamononoke_carrusel1.png", "laprincesamononoke_carrusel2.png", "laprincesamononoke_carrusel3.png"],
+            "sinopsis": "Mientras protege su aldea de un dios jabalí desenfrenado, el joven guerrero Ashitaka se ve afectado por una maldición mortal. Para encontrar la cura que le salvará la vida, viaja a las profundidades sagradas del reino del Gran Espíritu del Bosque, donde conoce a San (Princesa Mononoke), una niña criada por lobos. No pasa mucho tiempo antes de que Ashitaka quede atrapada en medio de una batalla entre los humanos que buscan mineral de hierro y los habitantes del bosque. Debe invocar los poderes espirituales y todo su coraje para evitar que el hombre y la naturaleza se destruyan entre sí.",
+            "enlaceVideo": "https://youtube.com/watch?v=4OiMOHRDs14"
+        },
+        {
+            "nombre": "Mis vecinos los Yamada",
+            "nombreURL": "mis_vecinos_los_yamada",
+            "director": "ISAO TAKAHATA",
+            "anyo": "1999",
+            "fotoCartel": "misvecinoslosyamada.jpg",
+            "fotosCarrusel": ["misvecinoslosyamada_carrusel1.png", "misvecinoslosyamada_carrusel2.png", "misvecinoslosyamada_carrusel3.png"],
+            "sinopsis": "Únete a las aventuras de la peculiar familia Yamada, desde lo hilarante hasta lo conmovedor, brillantemente presentadas en un estilo de tira cómica único y visualmente impactante. Takashi Yamada y su loca esposa Matsuko, que no tiene talento para las tareas del hogar, navegan a través de los altibajos del trabajo, el matrimonio y la vida familiar con una abuela de lengua afilada que vive con ellos, un hijo adolescente que desearía tener padres más geniales y una hija molesta cuya voz fuerte es inusual para alguien tan pequeño. ¡Incluso el perro de la familia tiene problemas! ",
+            "enlaceVideo": "https://youtube.com/watch?v=1C9ujuCPlnY"
+        },
+        {
+            "nombre": "El viaje de Chihiro",
+            "nombreURL": "el_viaje_de_chihiro",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "2001",
+            "fotoCartel": "elviajedechihiro_cartel.jpg",
+            "fotosCarrusel": ["elviajedechihiro_carrusel1.png", "elviajedechihiro_carrusel2.png", "elviajedechihiro_carrusel3.png"],
+            "sinopsis": "Chihiro cree que está en otro viaje aburrido con sus padres. Pero cuando se detienen en un pueblo que no es todo lo que parece, sus padres experimentan una misteriosa transformación y Chihiro es llevada a un mundo de espíritus fantásticos, dragones que cambian de forma y una bruja que nunca quiere verla irse. Debe recurrir al coraje que nunca supo que tenía para liberarse y devolver a su familia al mundo exterior.",
+            "enlaceVideo": "https://youtube.com/watch?v=ByXuk9QqQkk"
+        },
+        {
+            "nombre": "Haru en el reino de los gatos",
+            "nombreURL": "haru_en_el_reino_de_los_gatos",
+            "director": "HIROYUKI MORITA",
+            "anyo": "2002",
+            "fotoCartel": "haruenelreinodelosgatos.jpg",
+            "fotosCarrusel": ["haruenelreinodelosgatos_carrusel1.png", "haruenelreinodelosgatos_carrusel2.png", "haruenelreinodelosgatos_carrusel3.png"],
+            "sinopsis": "Haru, una colegiala aburrida de su rutina habitual, salva la vida de un gato inusual y, de repente, su mundo se transforma más allá de todo lo que jamás haya imaginado. Su buena acción es recompensada con una avalancha de regalos, incluidos ratones envueltos en regalos, y una propuesta de matrimonio muy impactante: ¡al hijo del Rey Gato! \n Haru se embarca en un viaje inesperado al Reino de los Gatos donde sus ojos se abren a un mundo completamente diferente y su destino es incierto. Para cambiar su destino necesitará aprender a creer en sí misma y, en el proceso, aprenderá a apreciar su vida cotidiana.",
+            "enlaceVideo": "https://youtube.com/watch?v=Gp-H_YOcYTM"
+        },
+        {
+            "nombre": "El castillo ambulante",
+            "nombreURL": "el_castillo_ambulante",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "2004",
+            "fotoCartel": "elcastilloambulante.jpg",
+            "fotosCarrusel": ["elcastilloambulante_carrusel1.png", "elcastilloambulante_carrusel2.png", "elcastilloambulante_carrusel3.png"],
+            "sinopsis": "Sophie, una adolescente promedio que trabaja en una sombrerería, ve su vida sumida en el caos cuando literalmente es arrastrada por un apuesto pero misterioso mago llamado Howl. Después de este encuentro casual, la vanidosa y conspiradora Bruja de los Residuos la convierte en una mujer de 90 años. Al embarcarse en una increíble aventura para levantar la maldición, encuentra refugio en el mágico castillo en movimiento de Howl, donde conoce a Marco, el aprendiz de Howl, y a un demonio de fuego impetuoso llamado Calcifer. \n A medida que se revela el verdadero poder de la magia de Howl y su relación con Sophie se profundiza, nuestra joven heroína gris se encuentra luchando para protegerlos a ambos de una peligrosa guerra de hechicería que amenaza su mundo.",
+            "enlaceVideo": "https://youtube.com/watch?v=iwROgK94zcM"
+        },
+        {
+            "nombre": "Cuentos de Terramar",
+            "nombreURL": "cuentos_de_terramar",
+            "director": "GORO MIYAZAKI",
+            "anyo": "2006",
+            "fotoCartel": "cuentosdeterramar_cartel.jpg",
+            "fotosCarrusel": ["cuentosdeterramar_carrusel1.png", "cuentosdeterramar_carrusel2.png", "cuentosdeterramar_carrusel3.png"],
+            "sinopsis": "En la tierra de Terramar, las cosechas están fallando y el ganado está muriendo. Dos dragones aparecen de las nubes de tormenta y se devoran unos a otros: un presagio de desastre inminente. El equilibrio del mundo corre el riesgo de desmoronarse. \n En su búsqueda de la causa de esta catástrofe invasora, el Archimago Ged, el más grande de los magos, conoce a Arren, Príncipe exiliado de Enlad, en huida de una Sombra sin nombre. Viajan a través de paisajes en ruinas hasta Hort Town, una ciudad donde los ciudadanos en blanco sólo comercian con productos falsificados, se comercializan esclavos y los adictos deambulan por las calles peligrosas, y se cruzan con Therru, una niña huérfana con el rostro marcado por el fuego. Ged se entera de que el mago Cob, en su búsqueda de la vida eterna, se está preparando para abrir la puerta entre los reinos de los vivos y los muertos. Cob, un adversario viejo y derrotado, ha jurado vengarse terriblemente de Ged.",
+            "enlaceVideo": "https://youtube.com/watch?v=8hxYx3Jq3kI"
+        },
+        {
+            "nombre": "Ponyo en el acantilado",
+            "nombreURL": "ponyo_en_el_acantilado",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "2008",
+            "fotoCartel": "ponyoenelacantilado_cartel.jpg",
+            "fotosCarrusel": ["ponyoenelacantilado_carrusel1.png", "ponyoenelacantilado_carrusel2.png", "ponyoenelacantilado_carrusel3.png"],
+            "sinopsis": "Una mañana, cerca de su casa junto al mar, Sosuke, de cinco años, descubre un pez dorado al que llama Ponyo, con la cabeza atrapada en un frasco de mermelada. Él la rescata y, fascinados el uno con el otro, prometen seguir siendo amigos firmes. Cuando el padre de Ponyo, un poderoso hechicero submarino, la obliga a regresar a las profundidades del océano, Ponyo está decidido a unirse a Sosuke en la superficie y convertirse en humano. Lo que sigue es una increíble aventura submarina.",
+            "enlaceVideo": "https://youtube.com/watch?v=CsR3KVgBzSM"
+        },
+        {
+            "nombre": "Arietty y el mundo de los diminutos",
+            "nombreURL": "arietty_y_el_mundo_de_los_diminutos",
+            "director": "HIROMASA YONEBAYASHI",
+            "anyo": "2010",
+            "fotoCartel": "arriettyyelmundodelosdiminutos_cartel.jpg",
+            "fotosCarrusel": ["arriettyyelmundodelosdiminutos_carrusel1.png", "arriettyyelmundodelosdiminutos_carrusel2.png", "arriettyyelmundodelosdiminutos_carrusel3.png"],
+            "sinopsis": "En esta caprichosa aventura, la pequeña Arrietty, de 14 años, vive bajo las tablas del suelo de una enorme mansión ubicada en un jardín mágico y cubierto de maleza con su padre y su madre. Arrietty y su familia viven de préstamos. Todo lo que tienen lo toman prestado o lo hacen de las cosas que le han pedido prestadas a la anciana que vive en la mansión. \n Su vida pacífica cambia dramáticamente cuando la siempre curiosa Arrietty accidentalmente se deja ver por Sho, un niño humano solitario de 12 años. Los dos comienzan a confiar el uno en el otro y, al poco tiempo, comienza a florecer una amistad...",
+            "enlaceVideo": "https://youtube.com/watch?v=9CtIXPhPo0g"
+        },
+        {
+            "nombre": "La colina de las amapolas",
+            "nombreURL": "la_colina_de_las_amapolas",
+            "director": "GORO MIYAZAKI",
+            "anyo": "2011",
+            "fotoCartel": "lacolinadelasamapolas_cartel.jpg",
+            "fotosCarrusel": ["lacolinadelasamapolas_carrusel1.png", "lacolinadelasamapolas_carrusel2.png", "lacolinadelasamapolas_carrusel3.png"],
+            "sinopsis": "Ambientada en Yokohama, La Colina De Las Amapolas es una historia de amor de secundaria que tiene lugar el año anterior a los Juegos Olímpicos de Verano de Tokio de 1964. A medida que el país comienza a recuperarse de la devastación de la Segunda Guerra Mundial, la nueva generación lucha por avanzar hacia un futuro próspero mientras intenta no perder la esencia de su pasado. La rica y vibrante animación de la película captura la fascinante belleza del puerto de Yokohama y las exuberantes laderas circundantes y, con una banda sonora que se inspira en la mejor música de la época, captura perfectamente las emociones del romance joven y la esperanza de un nuevo amanecer.",
+            "enlaceVideo": "https://youtube.com/watch?v=9nzpk_Br6yo"
+        },
+        {
+            "nombre": "El cuento de la princesa Kaguya",
+            "nombreURL": "el_cuento_de_la_princesa_kaguya",
+            "director": "ISAO TAKAHATA",
+            "anyo": "2013",
+            "fotoCartel": "elcuentodelaprincesakaguya_portada.jpg",
+            "fotosCarrusel": ["elcuentodelaprincesakaguya_carrusel1.png", "elcuentodelaprincesakaguya_carrusel2.png", "elcuentodelaprincesakaguya_carrusel3.png"],
+            "sinopsis": "Encontrada dentro de un brillante tallo de bambú, una pequeña niña se convierte en una exquisita joven, criada por un viejo cortador de bambú y su esposa. Desde el campo hasta la gran capital, incluso sin ser vista, cautiva a todos los que la encuentran, incluidos cinco pretendientes nobles. Al final deberá afrontar su destino, el castigo por su crimen.",
+            "enlaceVideo": "https://youtube.com/watch?v=I9QnebAVHVk"
+        },
+        {
+            "nombre": "El viento se levanta",
+            "nombreURL": "el_viento_se_levanta",
+            "director": "HAYAO MIYAZAKI",
+            "anyo": "2013",
+            "fotoCartel": "elvientoselevanta_cartel.jpg",
+            "fotosCarrusel": ["elvientoselevanta_carrusel1.png", "elvientoselevanta_carrusel2.png", "elvientoselevanta_carrusel3.png"],
+            "sinopsis": "Jiro sueña con volar y diseñar hermosos aviones, inspirados en el famoso diseñador aeronáutico italiano Caproni. Miope e incapaz de ser piloto, se convierte en uno de los diseñadores de aviones más destacados del mundo y experimenta acontecimientos históricos clave en una historia épica de amor, perseverancia y los desafíos de vivir y tomar decisiones en un mundo turbulento.",
+            "enlaceVideo": "https://youtube.com/watch?v=YrueAaw0RYg"
+        },
+        {
+            "nombre": "El recuerdo de Marnie",
+            "nombreURL": "el_recuerdo_de_marnie",
+            "director": "HIROMASA YONEBAYASHI",
+            "anyo": "2014",
+            "fotoCartel": "elrecuerdodemarnie_cartel.jpg",
+            "fotosCarrusel": ["elrecuerdodemarnie_carrusel1.png", "elrecuerdodemarnie_carrusel2.png", "elrecuerdodemarnie_carrusel3.png"],
+            "sinopsis": "Anna, de doce años, cree que se sienta fuera del círculo mágico invisible al que pertenece la mayoría de la gente y se aísla de todos los que la rodean. Preocupada por su salud, la madre adoptiva de Anna decide enviarla a la zona rural de Hokkaido para quedarse en un tranquilo pueblo junto al mar. Mientras sueña que sus días están lejos entre los pantanos, Anna se siente extrañamente atraída por la enigmática casa que se encuentra en el borde. Aquí es donde conoce a Marnie, una joven enérgica que parece aparecer de la nada. La pareja rápidamente se vuelve inseparable.",
+            "enlaceVideo": "https://youtube.com/watch?v=jjmrxqcQdYg"
+        }]
+}
